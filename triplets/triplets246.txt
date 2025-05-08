@@ -1,0 +1,21 @@
+[
+    {"sujeto": "Consumo Claro", "predicado": "es una sección de", "objeto": "elDiario.es"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección", "objeto": "Consumo Claro"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección", "objeto": "Política"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección", "objeto": "Sociedad"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección", "objeto": "Economía"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección", "objeto": "Internacional"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección", "objeto": "Cultura"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección", "objeto": "Tecnología"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección", "objeto": "Desalambre"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección", "objeto": "El rincón de pensar"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección", "objeto": "Vertele"},
+    {"sujeto": "elDiario.es", "predicado": "tiene blog", "objeto": "Tu mejor yo"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección local", "objeto": "Andalucía"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección local", "objeto": "Madrid"},
+    {"sujeto": "elDiario.es", "predicado": "tiene sección local", "objeto": "Catalunya"},
+    {"sujeto": "elDiario.es", "predicado": "incluye blog", "objeto": "Micromachismos"},
+    {"sujeto": "elDiario.es", "predicado": "incluye blog", "objeto": "Ciencia Crítica"},
+    {"sujeto": "elDiario.es", "predicado": "colabora con", "objeto": "The Guardian"},
+    {"sujeto": "Consumo Claro", "predicado": "forma parte de", "objeto": "eldiario.es"}
+]

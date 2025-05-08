@@ -1,0 +1,14 @@
+[
+    {"sujeto": "Seguro de hogar", "predicado": "es deducible en IRPF", "objeto": "si está vinculado a una hipoteca firmada antes de 2013"},
+    {"sujeto": "Seguro de hogar", "predicado": "es deducible en IRPF", "objeto": "si la vivienda está alquilada y genera rendimientos"},
+    {"sujeto": "Deducción de seguro de hogar", "predicado": "puede incluirse en", "objeto": "rendimiento neto del inmueble"},
+    {"sujeto": "Seguro de salud", "predicado": "no tiene deducción directa", "objeto": "para asalariados"},
+    {"sujeto": "Seguro de salud", "predicado": "no tributa como rendimiento en especie", "objeto": "si forma parte de la retribución del trabajador"},
+    {"sujeto": "Seguro de salud", "predicado": "tampoco tributa para", "objeto": "cónyuge o hijos menores de 25 años"},
+    {"sujeto": "Autónomos", "predicado": "pueden deducir seguro de salud", "objeto": "hasta 500 euros por persona"},
+    {"sujeto": "Límite deducible de seguro de salud", "predicado": "es", "objeto": "1.500 euros por persona en caso de discapacidad"},
+    {"sujeto": "Seguro de salud", "predicado": "debe estar vinculado a", "objeto": "actividad profesional de autónomo"},
+    {"sujeto": "Autónomos", "predicado": "pueden deducir parte proporcional de seguro de hogar", "objeto": "si trabajan desde casa"},
+    {"sujeto": "Deducción por hogar como espacio de trabajo", "predicado": "está limitada a", "objeto": "15 % de los gastos hasta 9.040 euros anuales"},
+    {"sujeto": "Deducción por hogar como espacio de trabajo", "predicado": "incluye", "objeto": "suministros como electricidad, agua, gas o conexión a internet"}
+]

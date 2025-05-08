@@ -1,0 +1,18 @@
+[
+    {"sujeto": "Gobierno de Cantabria", "predicado": "solicitó", "objeto": "expulsión de 18 menores migrantes tutelados"},
+    {"sujeto": "María José Sáenz de Buruaga", "predicado": "es presidenta de", "objeto": "Gobierno de Cantabria"},
+    {"sujeto": "Jaime Serdio Agüeros", "predicado": "firmó", "objeto": "solicitud de expediente de expatriación"},
+    {"sujeto": "Begoña Gómez del Río", "predicado": "es consejera", "objeto": "Consejería de Inclusión Social, Juventud, Familias e Igualdad"},
+    {"sujeto": "Consejería de Inclusión Social, Juventud, Familias e Igualdad", "predicado": "forma parte de", "objeto": "Gobierno de Cantabria"},
+    {"sujeto": "Pedro Casares", "predicado": "criticó", "objeto": "Gobierno de Cantabria"},
+    {"sujeto": "Pedro Casares", "predicado": "es secretario general de", "objeto": "PSOE de Cantabria"},
+    {"sujeto": "Israel Ruiz Salmón", "predicado": "criticó", "objeto": "Gobierno de Cantabria"},
+    {"sujeto": "Israel Ruiz Salmón", "predicado": "es coordinador general de", "objeto": "Izquierda Unida de Cantabria"},
+    {"sujeto": "PP", "predicado": "gobierna en", "objeto": "Cantabria"},
+    {"sujeto": "PP", "predicado": "preside", "objeto": "Gobierno de Cantabria"},
+    {"sujeto": "Gobierno de Cantabria", "predicado": "alegó", "objeto": "\"el interés superior del menor se satisface con la reagrupación con su familia en su país de origen\""},
+    {"sujeto": "PSOE de Cantabria", "predicado": "considera", "objeto": "expulsión de menores contraria al interés superior del menor"},
+    {"sujeto": "Izquierda Unida de Cantabria", "predicado": "calificó", "objeto": "expulsión de menores tutelados como racista e ilegal"},
+    {"sujeto": "Delegación del Gobierno en Cantabria", "predicado": "recibió", "objeto": "solicitudes de expediente de expatriación del Gobierno de Cantabria"},
+    {"sujeto": "Jaime Serdio Agüeros", "predicado": "es", "objeto": "subdirector de Infancia, Adolescencia y Familia del Gobierno de Cantabria"}
+]

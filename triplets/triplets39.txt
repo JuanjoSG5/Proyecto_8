@@ -1,0 +1,77 @@
+[
+  {
+    "sujeto": "Diputación de Huesca",
+    "predicado": "modificará ayudas",
+    "objeto": "ocho centros culturales"
+  },
+  {
+    "sujeto": "Vecinos de dos pueblos de Huesca",
+    "predicado": "se manifiestan contra",
+    "objeto": "macroproyecto de regadíos"
+  },
+  {
+    "sujeto": "Guardia Civil",
+    "predicado": "auxilió",
+    "objeto": "17 montañeros durante el puente de Semana Santa en el Pirineo aragonés"
+  },
+  {
+    "sujeto": "Policía Nacional",
+    "predicado": "detuvo",
+    "objeto": "cinco individuos con 400 kilos de hachís en Huesca"
+  },
+  {
+    "sujeto": "Narcopiso en barrio de la Encarnación de Huesca",
+    "predicado": "fue desmantelado por",
+    "objeto": "autoridades"
+  },
+  {
+    "sujeto": "Ruta de escalada en Ordesa",
+    "predicado": "fue eliminada por",
+    "objeto": "polémica medioambiental"
+  },
+  {
+    "sujeto": "ElDiarioAragón",
+    "predicado": "es autor de",
+    "objeto": "varias noticias sobre Huesca"
+  },
+  {
+    "sujeto": "Diputación de Huesca",
+    "predicado": "cambió sistema de ayudas",
+    "objeto": "centros culturales"
+  },
+  {
+    "sujeto": "Luis Faci",
+    "predicado": "es autor",
+    "objeto": "noticias sobre Huesca en elDiario.es"
+  },
+  {
+    "sujeto": "Candela Canales",
+    "predicado": "es autora",
+    "objeto": "noticia sobre polémica en Ordesa"
+  },
+  {
+    "sujeto": "Miguel Barluenga",
+    "predicado": "es autor",
+    "objeto": "artículos sobre Aragón rural y cultura en Huesca"
+  },
+  {
+    "sujeto": "Centro de FP concertado",
+    "predicado": "recibió",
+    "objeto": "programa de Formación Profesional en cocina"
+  },
+  {
+    "sujeto": "Sobrarbe",
+    "predicado": "es",
+    "objeto": "comarca de Aragón con carretera cerrada seis meses"
+  },
+  {
+    "sujeto": "Ermita de Salas (Huesca)",
+    "predicado": "fue escenario de",
+    "objeto": "fiesta universitaria con 800 kg de residuos"
+  },
+  {
+    "sujeto": "Autovía Sigüés-Tiermas",
+    "predicado": "fue inaugurada en",
+    "objeto": "abril de 2025"
+  }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "sujeto": "Iker Morán",
+        "predicado": "nació en",
+        "objeto": "Bilbao"
+    },
+    {
+        "sujeto": "Iker Morán",
+        "predicado": "nació en el año",
+        "objeto": "1978"
+    },
+    {
+        "sujeto": "Iker Morán",
+        "predicado": "es",
+        "objeto": "periodista"
+    },
+    {
+        "sujeto": "Iker Morán",
+        "predicado": "escribe sobre",
+        "objeto": "comida"
+    },
+    {
+        "sujeto": "Iker Morán",
+        "predicado": "escribe sobre",
+        "objeto": "bebida"
+    },
+    {
+        "sujeto": "Iker Morán",
+        "predicado": "escribe sobre",
+        "objeto": "viajes"
+    },
+    {
+        "sujeto": "Iker Morán",
+        "predicado": "escribe sobre",
+        "objeto": "cocina"
+    },
+    {
+        "sujeto": "Iker Morán",
+        "predicado": "considera la comida como",
+        "objeto": "algo social y político"
+    },
+    {
+        "sujeto": "Iker Morán",
+        "predicado": "tiene pasión por",
+        "objeto": "fotografía"
+    },
+    {
+        "sujeto": "Iker Morán",
+        "predicado": "trabaja para",
+        "objeto": "elDiario.es"
+    }
+]

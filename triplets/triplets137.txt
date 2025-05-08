@@ -1,0 +1,18 @@
+[
+    {"sujeto": "ARA", "predicado": "es", "objeto": "Asociación de Grupos de Desarrollo Rural"},
+    {"sujeto": "ARA", "predicado": "gestiona", "objeto": "programa LEADER"},
+    {"sujeto": "programa LEADER", "predicado": "opera en", "objeto": "51 territorios rurales de Andalucía"},
+    {"sujeto": "programa LEADER", "predicado": "beneficia a", "objeto": "700 municipios rurales andaluces"},
+    {"sujeto": "programa LEADER", "predicado": "está financiado por", "objeto": "FEADER"},
+    {"sujeto": "programa LEADER", "predicado": "está financiado por", "objeto": "Consejería de Agricultura, Pesca, Agua y Desarrollo Rural"},
+    {"sujeto": "FEADER", "predicado": "financia", "objeto": "90% del programa LEADER"},
+    {"sujeto": "Consejería de Agricultura, Pesca, Agua y Desarrollo Rural", "predicado": "financia", "objeto": "10% del programa LEADER"},
+    {"sujeto": "47 GDR", "predicado": "apoyan a", "objeto": "emprendedores rurales"},
+    {"sujeto": "medida 19 Leader", "predicado": "forma parte de", "objeto": "Programa de Desarrollo Rural de Andalucía 2014-2022"},
+    {"sujeto": "Valor Rural", "predicado": "es un blog de", "objeto": "elDiario.es"},
+    {"sujeto": "Valor Rural", "predicado": "está financiado por", "objeto": "Consejería de Agricultura, Pesca, Agua y Desarrollo Rural"},
+    {"sujeto": "Valor Rural", "predicado": "difunde", "objeto": "iniciativas rurales apoyadas por LEADER"},
+    {"sujeto": "Consuelo Durán", "predicado": "es autora de", "objeto": "publicaciones en el blog Valor Rural"},
+    {"sujeto": "Leader", "predicado": "apoya", "objeto": "cualquier tipo de actividad económica en el medio rural"},
+    {"sujeto": "Leader", "predicado": "se convoca según", "objeto": "necesidades del territorio"}
+]

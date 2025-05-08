@@ -1,0 +1,22 @@
+[
+    {"sujeto": "Estiramientos frecuentes", "predicado": "disminuyen", "objeto": "tensión muscular"},
+    {"sujeto": "Estiramientos frecuentes", "predicado": "disminuyen", "objeto": "rigidez muscular"},
+    {"sujeto": "Estiramientos", "predicado": "mantienen", "objeto": "rango de movimiento"},
+    {"sujeto": "Estiramiento", "predicado": "disminuye", "objeto": "riesgo de lesiones"},
+    {"sujeto": "Estiramientos dinámicos", "predicado": "se recomiendan", "objeto": "antes del ejercicio"},
+    {"sujeto": "Estiramientos estáticos", "predicado": "se recomiendan", "objeto": "después del ejercicio"},
+    {"sujeto": "Estiramientos posteriores al ejercicio", "predicado": "no mejoran", "objeto": "recuperación de la fuerza"},
+    {"sujeto": "Estiramientos posteriores al ejercicio", "predicado": "no reducen", "objeto": "aparición de agujetas"},
+    {"sujeto": "Estiramientos posteriores al ejercicio", "predicado": "mantienen", "objeto": "flexibilidad articular"},
+    {"sujeto": "Estiramientos posteriores al ejercicio", "predicado": "disminuyen", "objeto": "presión arterial en personas con hipertensión"},
+    {"sujeto": "Flexibilidad muscular", "predicado": "está relacionada con", "objeto": "menor dolor"},
+    {"sujeto": "Calentamiento ligero", "predicado": "se recomienda", "objeto": "antes del entrenamiento"},
+    {"sujeto": "Estiramientos", "predicado": "deben mantenerse", "objeto": "30 a 60 segundos"},
+    {"sujeto": "Estiramientos", "predicado": "deben realizarse", "objeto": "sin provocar dolor"},
+    {"sujeto": "Estiramiento de hombros", "predicado": "es útil para", "objeto": "flexibilidad del hombro"},
+    {"sujeto": "Estiramiento de cuádriceps", "predicado": "es útil para", "objeto": "flexibilidad del muslo"},
+    {"sujeto": "Estiramiento de gemelos", "predicado": "es útil para", "objeto": "flexibilidad de la pierna"},
+    {"sujeto": "Estiramiento de isquiotibiales", "predicado": "es útil para", "objeto": "flexibilidad de los muslos"},
+    {"sujeto": "Estiramientos", "predicado": "pueden prevenir", "objeto": "acortamiento muscular con el tiempo"},
+    {"sujeto": "Ejercicio físico", "predicado": "puede producir", "objeto": "microlesiones musculares"}
+]

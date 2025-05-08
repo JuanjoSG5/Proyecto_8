@@ -1,0 +1,32 @@
+[
+    {
+        "sujeto": "Elsa Voytas",
+        "predicado": "es",
+        "objeto": "estudiante de doctorado"
+    },
+    {
+        "sujeto": "Elsa Voytas",
+        "predicado": "estudia en",
+        "objeto": "Universidad de Princeton"
+    },
+    {
+        "sujeto": "Elsa Voytas",
+        "predicado": "investiga sobre",
+        "objeto": "Justicia Transicional"
+    },
+    {
+        "sujeto": "Elsa Voytas",
+        "predicado": "investiga sobre",
+        "objeto": "derechos humanos"
+    },
+    {
+        "sujeto": "Elsa Voytas",
+        "predicado": "investiga sobre",
+        "objeto": "violencia política"
+    },
+    {
+        "sujeto": "Elsa Voytas",
+        "predicado": "tiene perfil en",
+        "objeto": "eldiario.es"
+    }
+]

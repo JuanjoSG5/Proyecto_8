@@ -1,0 +1,17 @@
+[
+    {"sujeto": "Metro de Madrid", "predicado": "cerrará servicio", "objeto": "Línea 7 entre San Blas y Cartagena"},
+    {"sujeto": "cierre de la Línea 7 entre San Blas y Cartagena", "predicado": "ocurrirá", "objeto": "del 1 al 4 de mayo de 2025"},
+    {"sujeto": "cierre de la Línea 7 entre San Blas y Cartagena", "predicado": "se debe a", "objeto": "obras de renovación del sistema de señalización"},
+    {"sujeto": "Metro de Madrid", "predicado": "ofrecerá", "objeto": "servicio gratuito de autobuses entre San Blas y Cartagena"},
+    {"sujeto": "obras de señalización", "predicado": "afectan", "objeto": "8 estaciones entre San Blas y Cartagena"},
+    {"sujeto": "Línea 7B de Metro de Madrid", "predicado": "tiene servicio suspendido", "objeto": "entre Hospital del Henares y Barrio del Puerto"},
+    {"sujeto": "obras de señalización", "predicado": "forman parte de", "objeto": "plan de renovación de señalización entre Estadio Metropolitano y Pitis"},
+    {"sujeto": "plan de renovación de señalización", "predicado": "cuenta con inversión", "objeto": "más de 33 millones de euros"},
+    {"sujeto": "plan de renovación de señalización", "predicado": "actuará sobre", "objeto": "20 kilómetros de túnel y 24 estaciones"},
+    {"sujeto": "remodelación de línea 7", "predicado": "permitirá", "objeto": "reducir intervalo entre trenes"},
+    {"sujeto": "remodelación de línea 7", "predicado": "permitirá", "objeto": "instalar sistema de apertura automática de puertas (PATO)"},
+    {"sujeto": "remodelación de línea 7", "predicado": "incluirá actualización de software en", "objeto": "144 coches de los modelos 7000, 8000 y 9000"},
+    {"sujeto": "obras de señalización", "predicado": "incluirán", "objeto": "más de 1.100 pruebas del nuevo equipamiento"},
+    {"sujeto": "actuación en la Línea 7", "predicado": "está cofinanciada al 40% por", "objeto": "Programa FEPolítico 2"},
+    {"sujeto": "Programa FEPolítico 2", "predicado": "tiene objetivo", "objeto": "una Europa más verde y con cero emisiones netas"}
+]

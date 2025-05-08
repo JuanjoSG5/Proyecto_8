@@ -1,0 +1,67 @@
+[
+    {
+        "sujeto": "Policía Municipal de Madrid",
+        "predicado": "elaboró",
+        "objeto": "informe sobre accidente en Paseo de Extremadura"
+    },
+    {
+        "sujeto": "informe sobre accidente en Paseo de Extremadura",
+        "predicado": "exculpa",
+        "objeto": "Pablo Enrique Rodríguez"
+    },
+    {
+        "sujeto": "informe sobre accidente en Paseo de Extremadura",
+        "predicado": "descarta",
+        "objeto": "atropello de la niña"
+    },
+    {
+        "sujeto": "Pablo Enrique Rodríguez",
+        "predicado": "ocupaba cargo de",
+        "objeto": "director general de la Policía Municipal de Madrid"
+    },
+    {
+        "sujeto": "niña",
+        "predicado": "resultó con",
+        "objeto": "fractura en el tobillo derecho"
+    },
+    {
+        "sujeto": "madre de la niña",
+        "predicado": "denunció",
+        "objeto": "vehículo golpeó a la menor"
+    },
+    {
+        "sujeto": "vehículo policial",
+        "predicado": "circulaba durante",
+        "objeto": "apagón en Madrid"
+    },
+    {
+        "sujeto": "vehículo policial",
+        "predicado": "transitaba por",
+        "objeto": "Paseo de Extremadura"
+    },
+    {
+        "sujeto": "vehículo policial",
+        "predicado": "llevaba a bordo a",
+        "objeto": "Pablo Enrique Rodríguez"
+    },
+    {
+        "sujeto": "testigos no identificados",
+        "predicado": "afirmaron",
+        "objeto": "velocidad del vehículo era normal"
+    },
+    {
+        "sujeto": "Almeida",
+        "predicado": "declaró",
+        "objeto": "valorará confianza en Pablo Enrique Rodríguez"
+    },
+    {
+        "sujeto": "Pablo Enrique Rodríguez",
+        "predicado": "no informó",
+        "objeto": "Almeida ni vicealcaldesa sobre el accidente"
+    },
+    {
+        "sujeto": "informe sobre accidente en Paseo de Extremadura",
+        "predicado": "fue publicado",
+        "objeto": "8 de mayo de 2025"
+    }
+]

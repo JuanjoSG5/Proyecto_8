@@ -1,0 +1,18 @@
+[
+    {"sujeto": "Fundación Anesvad", "predicado": "colabora con", "objeto": "elDiario Brands"},
+    {"sujeto": "Fundación Anesvad", "predicado": "organiza", "objeto": "Premios Fundación Anesvad"},
+    {"sujeto": "Premios Fundación Anesvad", "predicado": "tiene como objetivo", "objeto": "reconocer iniciativas transformadoras en salud global"},
+    {"sujeto": "Premios Fundación Anesvad", "predicado": "celebra", "objeto": "décima edición en el Palacio Euskalduna de Bilbao"},
+    {"sujeto": "Premios Fundación Anesvad", "predicado": "incluye", "objeto": "coloquio 'La salud global en juego'"},
+    {"sujeto": "Kofi Nyarko", "predicado": "participa en", "objeto": "coloquio 'La salud global en juego'"},
+    {"sujeto": "Flora Balle Houndjrebo", "predicado": "participa en", "objeto": "coloquio 'La salud global en juego'"},
+    {"sujeto": "Gloria Dada", "predicado": "es", "objeto": "investigadora nigeriana becada por Fundación Anesvad"},
+    {"sujeto": "Gloria Dada", "predicado": "realiza estudios en", "objeto": "Universidad Carlos III de Madrid"},
+    {"sujeto": "Fundación Anesvad", "predicado": "promueve", "objeto": "derecho a la salud"},
+    {"sujeto": "Fundación Anesvad", "predicado": "apoya", "objeto": "proyectos en comunidades del África subsahariana"},
+    {"sujeto": "Premios Fundación Anesvad", "predicado": "apoyan", "objeto": "proyectos que combaten enfermedades tropicales desatendidas"},
+    {"sujeto": "Andrea Menéndez Faya", "predicado": "es autora de", "objeto": "Mujeres, africanas e investigadoras: una triple barrera que se puede derribar"},
+    {"sujeto": "Andrea Menéndez Faya", "predicado": "es autora de", "objeto": "Enfermedades tropicales desatendidas: la ciencia que las saca del olvido"},
+    {"sujeto": "Fundación Anesvad", "predicado": "defiende", "objeto": "derecho a la salud como principio universal"},
+    {"sujeto": "Premios Fundación Anesvad", "predicado": "distinguen", "objeto": "nuevas iniciativas de salud global"}
+]

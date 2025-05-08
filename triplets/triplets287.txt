@@ -1,0 +1,22 @@
+[
+    {"sujeto": "Donald Trump", "predicado": "mantuvo comunicación telefónica con", "objeto": "Vladímir Putin"},
+    {"sujeto": "Donald Trump", "predicado": "propuso", "objeto": "alto el fuego de 30 días sobre infraestructuras energéticas en Ucrania"},
+    {"sujeto": "Vladímir Putin", "predicado": "aceptó", "objeto": "alto el fuego de 30 días sobre infraestructuras energéticas en Ucrania"},
+    {"sujeto": "EEUU", "predicado": "acordó", "objeto": "alto el fuego total de 30 días con Volodímir Zelenski"},
+    {"sujeto": "Donald Trump", "predicado": "criticó", "objeto": "Volodímir Zelenski"},
+    {"sujeto": "Donald Trump", "predicado": "decidió no incluir en negociaciones a", "objeto": "Europa"},
+    {"sujeto": "Vladímir Putin", "predicado": "rechazó", "objeto": "alto el fuego total de 30 días"},
+    {"sujeto": "Vladímir Putin", "predicado": "exigió", "objeto": "cese de ayuda militar e inteligencia a Ucrania"},
+    {"sujeto": "Vladímir Putin", "predicado": "pidió", "objeto": "fin de la movilización forzosa en Ucrania"},
+    {"sujeto": "Vladímir Putin", "predicado": "exigió", "objeto": "control efectivo en la línea de combate"},
+    {"sujeto": "Volodímir Zelenski", "predicado": "aceptó", "objeto": "alto el fuego de 30 días propuesto por EEUU"},
+    {"sujeto": "Volodímir Zelenski", "predicado": "afirmó", "objeto": "Rusia no está preparada para poner fin a la guerra"},
+    {"sujeto": "Rusia", "predicado": "atacó", "objeto": "hospitales en la región de Sumi"},
+    {"sujeto": "Rusia", "predicado": "bombardeó", "objeto": "infraestructura ferroviaria en Dnipropetrovsk"},
+    {"sujeto": "Rusia", "predicado": "impactó", "objeto": "infraestructura eléctrica en Sloviansk"},
+    {"sujeto": "Rusia", "predicado": "derribó", "objeto": "57 drones ucranianos"},
+    {"sujeto": "Ursula von der Leyen", "predicado": "pidió", "objeto": "alto el fuego sin condiciones previas a Rusia"},
+    {"sujeto": "Kirill Dmitriev", "predicado": "calificó", "objeto": "llamada entre Trump y Putin como perfecta"},
+    {"sujeto": "Donald Trump", "predicado": "ordenó", "objeto": "elaboración de lista de sanciones a Rusia"},
+    {"sujeto": "Donald Trump", "predicado": "afirmó", "objeto": "la guerra no habría comenzado si él estuviera en el poder"}
+]

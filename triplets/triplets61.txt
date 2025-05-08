@@ -1,0 +1,162 @@
+[
+    {
+        "sujeto": "Terremoto del 6 de mayo de 2025",
+        "predicado": "ocurrió en",
+        "objeto": "provincia de Zamora"
+    },
+    {
+        "sujeto": "Terremoto del 6 de mayo de 2025",
+        "predicado": "fue de magnitud",
+        "objeto": "2,1"
+    },
+    {
+        "sujeto": "Nieve del 16 de abril de 2025",
+        "predicado": "afectó a",
+        "objeto": "Zamora"
+    },
+    {
+        "sujeto": "Nieve del 16 de abril de 2025",
+        "predicado": "atrapó",
+        "objeto": "treintena de vehículos"
+    },
+    {
+        "sujeto": "Presa de Almendra",
+        "predicado": "fue objeto de",
+        "objeto": "protesta por abandono rural"
+    },
+    {
+        "sujeto": "Incendio de Calabor",
+        "predicado": "calcinó",
+        "objeto": "300 hectáreas"
+    },
+    {
+        "sujeto": "Incendio de Calabor",
+        "predicado": "ocurrió en",
+        "objeto": "Zamora"
+    },
+    {
+        "sujeto": "Incendio de Calabor",
+        "predicado": "fue causado por",
+        "objeto": "causas humanas"
+    },
+    {
+        "sujeto": "Museo Pedagógico de Zamora",
+        "predicado": "ubicación",
+        "objeto": "Zamora"
+    },
+    {
+        "sujeto": "Museo Pedagógico de Zamora",
+        "predicado": "temática",
+        "objeto": "historia de la educación"
+    },
+    {
+        "sujeto": "Puente de Piedra de Zamora",
+        "predicado": "fue reformado",
+        "objeto": "2025"
+    },
+    {
+        "sujeto": "Puente de Piedra de Zamora",
+        "predicado": "estuvo cerrado durante",
+        "objeto": "mayor reforma en 120 años"
+    },
+    {
+        "sujeto": "Audiencia Provincial de Zamora",
+        "predicado": "pidió condena de",
+        "objeto": "14,5 años de cárcel por abuso sexual continuado"
+    },
+    {
+        "sujeto": "Planta de biogás de Zamora",
+        "predicado": "promotor sancionado por",
+        "objeto": "comenzar obras sin permiso"
+    },
+    {
+        "sujeto": "Vox",
+        "predicado": "abrió expediente a alcalde de Zamora por",
+        "objeto": "apoyar eliminación de calles franquistas"
+    },
+    {
+        "sujeto": "Zamora",
+        "predicado": "registró terremotos",
+        "objeto": "11 de marzo de 2025"
+    },
+    {
+        "sujeto": "Mujer zamorana de 75 años",
+        "predicado": "denunció a su marido por",
+        "objeto": "maltrato psicológico y físico durante 50 años"
+    },
+    {
+        "sujeto": "Muralla medieval de Zamora",
+        "predicado": "liberada tras",
+        "objeto": "expropiación"
+    },
+    {
+        "sujeto": "Muralla medieval de Zamora",
+        "predicado": "dio lugar a",
+        "objeto": "nueva calle"
+    },
+    {
+        "sujeto": "Inmaculada García Rioja",
+        "predicado": "falleció en",
+        "objeto": "Zamora"
+    },
+    {
+        "sujeto": "Inmaculada García Rioja",
+        "predicado": "fue",
+        "objeto": "procuradora del PSOE"
+    },
+    {
+        "sujeto": "Benavente",
+        "predicado": "sufrió",
+        "objeto": "problemas de cobertura"
+    },
+    {
+        "sujeto": "Benavente",
+        "predicado": "protestó con",
+        "objeto": "caceroladas diarias"
+    },
+    {
+        "sujeto": "Colegio rural en Zamora",
+        "predicado": "tenía",
+        "objeto": "clases sin calefacción a diez grados"
+    },
+    {
+        "sujeto": "Jonathan Arribas",
+        "predicado": "es",
+        "objeto": "escritor"
+    },
+    {
+        "sujeto": "Jonathan Arribas",
+        "predicado": "declaró",
+        "objeto": "\"Hay que salvar el modo de vida de los pueblos, pero la homofobia tiene que desaparecer\""
+    },
+    {
+        "sujeto": "Junta de Castilla y León",
+        "predicado": "inició trámites para",
+        "objeto": "Plan Regional de Monte la Reina"
+    },
+    {
+        "sujeto": "Monte la Reina",
+        "predicado": "ubicación",
+        "objeto": "Zamora"
+    },
+    {
+        "sujeto": "Ayuntamiento de Zamora",
+        "predicado": "multará con",
+        "objeto": "20.000 euros a empresa si no acaba reforma"
+    },
+    {
+        "sujeto": "Cuartel de Monte la Reina en Toro",
+        "predicado": "entrará en funcionamiento",
+        "objeto": "2027"
+    },
+    {
+        "sujeto": "Cuartel de Monte la Reina en Toro",
+        "predicado": "tendrá coste de",
+        "objeto": "130 millones de euros"
+    },
+    {
+        "sujeto": "PSOE",
+        "predicado": "exigió",
+        "objeto": "agilización de tramites del campamento Monte la Reina como Proyecto de Interés Regional"
+    }
+]

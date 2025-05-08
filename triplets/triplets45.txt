@@ -1,0 +1,87 @@
+[
+    {
+        "sujeto": "Padre de la niña fallecida en el tiroteo de Plasencia",
+        "predicado": "fue detenido por",
+        "objeto": "intento de homicidio"
+    },
+    {
+        "sujeto": "Vivienda de familia involucrada en tiroteo de Plasencia",
+        "predicado": "fue incendiada",
+        "objeto": "tras tiroteo"
+    },
+    {
+        "sujeto": "Cinco armas de fuego",
+        "predicado": "fueron intervenidas",
+        "objeto": "tras el tiroteo de Plasencia"
+    },
+    {
+        "sujeto": "Diputada de Vox en Plasencia",
+        "predicado": "renunció a",
+        "objeto": "su acta"
+    },
+    {
+        "sujeto": "Álvaro Sánchez-Ocaña",
+        "predicado": "sustituirá como edil de Vox en Plasencia a",
+        "objeto": "la diputada que renunció"
+    },
+    {
+        "sujeto": "Tribunal",
+        "predicado": "decretó",
+        "objeto": "prisión provisional para seis detenidos en el tiroteo en Plasencia"
+    },
+    {
+        "sujeto": "Dos investigados por el tiroteo de Plasencia",
+        "predicado": "obtuvieron",
+        "objeto": "libertad provisional"
+    },
+    {
+        "sujeto": "Plasencia",
+        "predicado": "cerró",
+        "objeto": "sus paseos fluviales por aumento de caudal del río Jerte"
+    },
+    {
+        "sujeto": "Usuario del tren en Plasencia",
+        "predicado": "aumentó",
+        "objeto": "número de viajeros"
+    },
+    {
+        "sujeto": "Movimientos sociales de Plasencia",
+        "predicado": "reclamaron",
+        "objeto": "encuentro con secretario de Estado de Transportes"
+    },
+    {
+        "sujeto": "Plasencia",
+        "predicado": "inició",
+        "objeto": "estudio informativo para nueva estación de alta velocidad"
+    },
+    {
+        "sujeto": "Plasencia",
+        "predicado": "recibió",
+        "objeto": "aprobación definitiva para arreglo de avenida Martín Palomino"
+    },
+    {
+        "sujeto": "Unidas Podemos",
+        "predicado": "pidió que",
+        "objeto": "Plasencia fuera declarada zona de mercado de vivienda tensionada"
+    },
+    {
+        "sujeto": "Instalaciones deportivas de Plasencia",
+        "predicado": "cerraron o redujeron horario por",
+        "objeto": "falta de personal"
+    },
+    {
+        "sujeto": "Enrique Cenalmor",
+        "predicado": "se jubiló como",
+        "objeto": "intendente de la Policía Local de Plasencia"
+    },
+    {
+        "sujeto": "Taxista",
+        "predicado": "fue denunciado por",
+        "objeto": "trasladar toxicómanos para compra de droga en Plasencia"
+    },
+    {
+        "sujeto": "Movimiento Norte de Extremadura",
+        "predicado": "reclamó a",
+        "objeto": "María Guardiola restaurar recortes en turismo"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {"sujeto": "Somos Tetuán", "predicado": "pertenece a", "objeto": "elDiario.es"},
+    {"sujeto": "Luis de la Cruz", "predicado": "es autor de", "objeto": "Un juez cierra dos pistas de pádel en Madrid por ruido"},
+    {"sujeto": "Luis de la Cruz", "predicado": "es autor de", "objeto": "La peatonalización de la pandemia en Tetuán avanza"},
+    {"sujeto": "Luis de la Cruz", "predicado": "es autor de", "objeto": "Lucha colectiva por Virginia"},
+    {"sujeto": "Luis de la Cruz", "predicado": "es autor de", "objeto": "La gasolinera que esconde una torre neoherreriana en Bravo Murillo"},
+    {"sujeto": "Luis de la Cruz", "predicado": "es autor de", "objeto": "Reaparece la pintada de Tetuán"},
+    {"sujeto": "Luis de la Cruz", "predicado": "es autor de", "objeto": "Fiesta de la primavera en la Huerta de Tetuán"},
+    {"sujeto": "Luis de la Cruz", "predicado": "es autor de", "objeto": "Consuelo Zabalza, ateneísta durante la guerra"},
+    {"sujeto": "Luis de la Cruz", "predicado": "es autor de", "objeto": "Tetuán aprueba un espacio público para Gabriel Escarrer Juliá"},
+    {"sujeto": "Somos Tetuán", "predicado": "organiza", "objeto": "Fiesta de la primavera en la Huerta de Tetuán"},
+    {"sujeto": "Somos Tetuán", "predicado": "reporta", "objeto": "Vecinos de Dehesa de la Villa protestan contra cercado infantil"},
+    {"sujeto": "Comunidad de Madrid", "predicado": "construirá", "objeto": "ascensores del Metro en La Ventilla"},
+    {"sujeto": "Gabriel Escarrer Juliá", "predicado": "fundó", "objeto": "Grupo Meliá"},
+    {"sujeto": "Grupo Meliá", "predicado": "abrió", "objeto": "hotel en el distrito de Tetuán"},
+    {"sujeto": "Vecinos de Tetuán", "predicado": "solicitan", "objeto": "aseos públicos en Dehesa de la Villa"},
+    {"sujeto": "Somos Tetuán", "predicado": "publica", "objeto": "Agenda cultural del distrito"},
+    {"sujeto": "Somos Tetuán", "predicado": "publica", "objeto": "Noticias de actualidad del distrito"}
+]

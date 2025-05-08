@@ -1,0 +1,52 @@
+[
+    {
+        "sujeto": "Gobierno de Castilla-La Mancha",
+        "predicado": "otorga ayudas",
+        "objeto": "jóvenes para comprar vivienda en municipios de menos de 10.000 habitantes"
+    },
+    {
+        "sujeto": "Page",
+        "predicado": "solicita",
+        "objeto": "20 millones a Isabel Rodríguez para rehabilitación de vivienda en Castilla-La Mancha"
+    },
+    {
+        "sujeto": "CCOO Castilla-La Mancha",
+        "predicado": "reclama",
+        "objeto": "empresa pública de vivienda"
+    },
+    {
+        "sujeto": "Alcalde de Ciudad Real",
+        "predicado": "propone",
+        "objeto": "construir vivienda pública en edificio de Servicios Múltiples"
+    },
+    {
+        "sujeto": "PP y Vox",
+        "predicado": "aprueban",
+        "objeto": "más viviendas en el Casco Histórico de Toledo"
+    },
+    {
+        "sujeto": "PP y Vox",
+        "predicado": "preparan plan urbanístico",
+        "objeto": "Toledo anclado en el modelo de 1986"
+    },
+    {
+        "sujeto": "Isabel Rodríguez",
+        "predicado": "rechaza",
+        "objeto": "separación de pisos protegidos y libres en vivienda"
+    },
+    {
+        "sujeto": "Colegio Oficial de Arquitectos de Castilla-La Mancha",
+        "predicado": "organiza",
+        "objeto": "Jornadas de Patrimonio en Cuenca"
+    },
+    {
+        "sujeto": "Hispania Nostra",
+        "predicado": "acuerda actuaciones con",
+        "objeto": "Colegio Oficial de Arquitectos de Castilla-La Mancha para defender el patrimonio"
+    },
+    {
+        "sujeto": "Alcalde de Toledo",
+        "predicado": "recibe críticas de",
+        "objeto": "Sumar por propuesta de hotel en el Casco Histórico"
+    }
+]

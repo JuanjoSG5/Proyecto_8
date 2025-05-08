@@ -1,0 +1,20 @@
+[
+    {"sujeto": "El Malacatín", "predicado": "sirve", "objeto": "cocido madrileño"},
+    {"sujeto": "La Bola", "predicado": "sirve", "objeto": "cocido madrileño"},
+    {"sujeto": "Casa Álvarez", "predicado": "sirve", "objeto": "cocido madrileño"},
+    {"sujeto": "Distrito Vegano", "predicado": "sirve", "objeto": "cocido vegano"},
+    {"sujeto": "Viuda de Vacas", "predicado": "sirve", "objeto": "judiones de La Granja"},
+    {"sujeto": "Charolés", "predicado": "sirve", "objeto": "judiones de La Granja"},
+    {"sujeto": "Taberna del Viajero", "predicado": "sirve", "objeto": "judiones de La Granja"},
+    {"sujeto": "Casa Ciriaco", "predicado": "sirve", "objeto": "callos a la madrileña"},
+    {"sujeto": "San Mamés", "predicado": "sirve", "objeto": "callos a la madrileña"},
+    {"sujeto": "La Tasquería", "predicado": "sirve", "objeto": "callos a la madrileña"},
+    {"sujeto": "Casa Lucio", "predicado": "sirve", "objeto": "sopa castellana"},
+    {"sujeto": "Casa Paco", "predicado": "sirve", "objeto": "sopa castellana"},
+    {"sujeto": "Las Terrazas de Becerril", "predicado": "sirve", "objeto": "sopa castellana"},
+    {"sujeto": "Igo Ramen", "predicado": "sirve", "objeto": "ramen"},
+    {"sujeto": "Chuka", "predicado": "sirve", "objeto": "ramen"},
+    {"sujeto": "Andong Ramen", "predicado": "sirve", "objeto": "lamian (sopa china)"},
+    {"sujeto": "Javier Estévez", "predicado": "dirige", "objeto": "La Tasquería"},
+    {"sujeto": "La Tasquería", "predicado": "tiene", "objeto": "una Estrella Michelín"}
+]

@@ -1,0 +1,19 @@
+[
+    {"sujeto": "BBVA", "predicado": "lanzó", "objeto": "OPA hostil por Banco Sabadell"},
+    {"sujeto": "Banco Sabadell", "predicado": "fue objeto de", "objeto": "OPA del BBVA"},
+    {"sujeto": "Gobierno", "predicado": "abrió", "objeto": "consulta pública sobre la OPA de BBVA por Sabadell"},
+    {"sujeto": "Zurich", "predicado": "se convirtió en", "objeto": "segundo mayor accionista del Sabadell"},
+    {"sujeto": "Banco Sabadell", "predicado": "afirmó", "objeto": "la OPA de BBVA tiene muchos aspectos no fiables"},
+    {"sujeto": "Josep Oliu", "predicado": "declaró", "objeto": "genera más valor mantener ambos bancos independientes"},
+    {"sujeto": "Consejero delegado del Sabadell", "predicado": "declaró", "objeto": "la OPA del BBVA no va a salir"},
+    {"sujeto": "Banco Sabadell", "predicado": "regresó a", "objeto": "Catalunya"},
+    {"sujeto": "CNMV", "predicado": "aplazó", "objeto": "decisión sobre oferta de compra de BBVA por Sabadell"},
+    {"sujeto": "BBVA", "predicado": "asumió", "objeto": "cierre de 300 sucursales si se aprueba fusión con Sabadell"},
+    {"sujeto": "Fusión BBVA y Sabadell", "predicado": "afecta a", "objeto": "Catalunya"},
+    {"sujeto": "Fusión BBVA y Sabadell", "predicado": "afecta a", "objeto": "Comunitat Valenciana"},
+    {"sujeto": "Fusión BBVA y Sabadell", "predicado": "afecta a", "objeto": "Madrid"},
+    {"sujeto": "Fusión BBVA y Sabadell", "predicado": "afecta a", "objeto": "Murcia"},
+    {"sujeto": "OPA de BBVA sobre Sabadell", "predicado": "implica", "objeto": "posible entrada en Sareb"},
+    {"sujeto": "35 empresas oleícolas", "predicado": "viajaron a", "objeto": "Sabadell"},
+    {"sujeto": "Empresas oleícolas", "predicado": "participaron en", "objeto": "Fiesta del Primer Aceite de Jaén en Sabadell"}
+]

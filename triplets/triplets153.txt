@@ -1,0 +1,52 @@
+[
+    {
+        "sujeto": "Benedicto XVI",
+        "predicado": "fue elegido Papa en",
+        "objeto": "segunda jornada del cónclave de 2005"
+    },
+    {
+        "sujeto": "Benedicto XVI",
+        "predicado": "fue elegido Papa en",
+        "objeto": "cuarta ronda de votaciones"
+    },
+    {
+        "sujeto": "Francisco",
+        "predicado": "fue elegido Papa en",
+        "objeto": "segunda jornada del cónclave de 2013"
+    },
+    {
+        "sujeto": "Francisco",
+        "predicado": "fue elegido Papa en",
+        "objeto": "quinta ronda de votaciones"
+    },
+    {
+        "sujeto": "Jesús Martínez Gordo",
+        "predicado": "es autor del artículo",
+        "objeto": "Carrusel de papables"
+    },
+    {
+        "sujeto": "Carrusel de papables",
+        "predicado": "fue publicado en",
+        "objeto": "elDiario.es"
+    },
+    {
+        "sujeto": "Carrusel de papables",
+        "predicado": "fue publicado el",
+        "objeto": "7 de mayo de 2025"
+    },
+    {
+        "sujeto": "Cónclave de 2025",
+        "predicado": "es para elegir",
+        "objeto": "nuevo Papa"
+    },
+    {
+        "sujeto": "Cardenales",
+        "predicado": "celebraron",
+        "objeto": "misa 'Pro eligendo papa'"
+    },
+    {
+        "sujeto": "Misa 'Pro eligendo papa'",
+        "predicado": "es antes del inicio de",
+        "objeto": "cónclave"
+    }
+]

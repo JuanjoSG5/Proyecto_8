@@ -1,0 +1,22 @@
+[
+    {"sujeto": "Mask Singer 5", "predicado": "se emite en", "objeto": "Antena 3"},
+    {"sujeto": "Mask Singer 5", "predicado": "es producido por", "objeto": "Fremantle España"},
+    {"sujeto": "Javier Calvo", "predicado": "dejó de participar en", "objeto": "Mask Singer 5"},
+    {"sujeto": "Javier Ambrossi", "predicado": "dejó de participar en", "objeto": "Mask Singer 5"},
+    {"sujeto": "Alaska", "predicado": "dejó de participar en", "objeto": "Mask Singer 5"},
+    {"sujeto": "Ana Milán", "predicado": "participa como investigadora en", "objeto": "Mask Singer 5"},
+    {"sujeto": "Boris Izaguirre", "predicado": "se incorpora como investigador en", "objeto": "Mask Singer 5"},
+    {"sujeto": "Ruth Lorenzo", "predicado": "se incorpora como investigadora en", "objeto": "Mask Singer 5"},
+    {"sujeto": "Juan y Medio", "predicado": "se incorpora como investigador en", "objeto": "Mask Singer 5"},
+    {"sujeto": "Arturo Valls", "predicado": "es presentador de", "objeto": "Mask Singer 5"},
+    {"sujeto": "Paz Vega", "predicado": "ganó", "objeto": "Mask Singer 1"},
+    {"sujeto": "Joaquín Cortés", "predicado": "ganó", "objeto": "Mask Singer 2"},
+    {"sujeto": "Ana Torroja", "predicado": "ganó", "objeto": "Mask Singer 3"},
+    {"sujeto": "Fernando Morientes", "predicado": "ganó", "objeto": "Mask Singer 3"},
+    {"sujeto": "Abraham Mateo", "predicado": "ganó", "objeto": "Mask Singer 4"},
+    {"sujeto": "Ruth Lorenzo", "predicado": "actuó como invitada en", "objeto": "Mask Singer 4"},
+    {"sujeto": "Mask Singer 4", "predicado": "tuvo una cuota de pantalla de", "objeto": "13.8%"},
+    {"sujeto": "Mask Singer 4", "predicado": "tuvo una audiencia promedio de", "objeto": "casi un millón de espectadores"},
+    {"sujeto": "Mask Singer", "predicado": "cambia su equipo de investigadores en", "objeto": "cada edición"},
+    {"sujeto": "Los Javis", "predicado": "participaron como investigadores en", "objeto": "todas las ediciones hasta Mask Singer 4"}
+]

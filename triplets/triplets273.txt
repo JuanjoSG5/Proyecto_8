@@ -1,0 +1,62 @@
+[
+    {
+        "sujeto": "Carlos Osorio",
+        "predicado": "ofreció",
+        "objeto": "visita guiada por el levantamiento del Dos de Mayo de 1808 en Malasaña"
+    },
+    {
+        "sujeto": "Carlos Osorio",
+        "predicado": "es",
+        "objeto": "historiador"
+    },
+    {
+        "sujeto": "Carlos Osorio",
+        "predicado": "es",
+        "objeto": "escritor"
+    },
+    {
+        "sujeto": "Carlos Osorio",
+        "predicado": "es autor de",
+        "objeto": "blog Caminando por Madrid"
+    },
+    {
+        "sujeto": "visita guiada por el levantamiento del Dos de Mayo de 1808 en Malasaña",
+        "predicado": "tuvo lugar el",
+        "objeto": "8 de mayo de 2025"
+    },
+    {
+        "sujeto": "visita guiada por el levantamiento del Dos de Mayo de 1808 en Malasaña",
+        "predicado": "fue precedida por",
+        "objeto": "coloquio en la Casa del Cura"
+    },
+    {
+        "sujeto": "coloquio en la Casa del Cura",
+        "predicado": "tuvo lugar el",
+        "objeto": "8 de mayo de 2025 a las 17:00"
+    },
+    {
+        "sujeto": "visita guiada por el levantamiento del Dos de Mayo de 1808 en Malasaña",
+        "predicado": "comenzó a las",
+        "objeto": "18:15"
+    },
+    {
+        "sujeto": "visita guiada por el levantamiento del Dos de Mayo de 1808 en Malasaña",
+        "predicado": "duró",
+        "objeto": "1,30 horas"
+    },
+    {
+        "sujeto": "visita guiada por el levantamiento del Dos de Mayo de 1808 en Malasaña",
+        "predicado": "partió de",
+        "objeto": "Casa del Cura (plaza del Dos de Mayo, 1)"
+    },
+    {
+        "sujeto": "Levantamiento del Dos de Mayo de 1808",
+        "predicado": "tuvo lugar en",
+        "objeto": "Malasaña"
+    },
+    {
+        "sujeto": "fiestas populares de Malasaña",
+        "predicado": "precedieron a",
+        "objeto": "visita guiada por el levantamiento del Dos de Mayo de 1808"
+    }
+]

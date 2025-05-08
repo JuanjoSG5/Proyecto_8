@@ -1,0 +1,27 @@
+[
+    {
+        "sujeto": "Palabra oculta",
+        "predicado": "es un juego disponible en",
+        "objeto": "Juegos elDiario.es"
+    },
+    {
+        "sujeto": "Palabra oculta",
+        "predicado": "forma parte de",
+        "objeto": "elDiario.es"
+    },
+    {
+        "sujeto": "Juegos elDiario.es",
+        "predicado": "pertenece a",
+        "objeto": "elDiario.es"
+    },
+    {
+        "sujeto": "elDiario.es",
+        "predicado": "tiene sección",
+        "objeto": "Juegos"
+    },
+    {
+        "sujeto": "Palabra oculta",
+        "predicado": "es un tipo de",
+        "objeto": "juego diario de palabras"
+    }
+]

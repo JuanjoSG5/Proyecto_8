@@ -1,0 +1,18 @@
+[
+    {"sujeto": "Antonia San Juan", "predicado": "participó en", "objeto": "La Revuelta"},
+    {"sujeto": "Antonia San Juan", "predicado": "presentó", "objeto": "Lo carga el diablo"},
+    {"sujeto": "Antonia San Juan", "predicado": "salió de", "objeto": "La que se avecina"},
+    {"sujeto": "Antonia San Juan", "predicado": "afirmó", "objeto": "no se fue de La que se avecina por dinero"},
+    {"sujeto": "La que se avecina", "predicado": "fue creada por", "objeto": "Laura y Alberto"},
+    {"sujeto": "Antonia San Juan", "predicado": "dijo tener", "objeto": "apartamento en Canarias"},
+    {"sujeto": "Antonia San Juan", "predicado": "dijo tener", "objeto": "casa en Madrid"},
+    {"sujeto": "Antonia San Juan", "predicado": "estima su patrimonio en", "objeto": "un millón de euros escaso"},
+    {"sujeto": "Antonia San Juan", "predicado": "afirmó", "objeto": "prefiere trabajar si es bien remunerada"},
+    {"sujeto": "Antonia San Juan", "predicado": "afirmó", "objeto": "no tiene planes de jubilación"},
+    {"sujeto": "Antonia San Juan", "predicado": "afirmó", "objeto": "su relación con Laura y Alberto es excepcional"},
+    {"sujeto": "Antonia San Juan", "predicado": "estuvo en pareja", "objeto": "14 años"},
+    {"sujeto": "Antonia San Juan", "predicado": "estuvo casada", "objeto": "16 años"},
+    {"sujeto": "Antonia San Juan", "predicado": "tuvo relación con", "objeto": "un hombre de 28 años a los 54 años"},
+    {"sujeto": "Antonia San Juan", "predicado": "tuvo relación con", "objeto": "un hombre de 32 años que duró 6 meses"},
+    {"sujeto": "Antonia San Juan", "predicado": "declara", "objeto": "no le interesa otra relación sentimental"}
+]

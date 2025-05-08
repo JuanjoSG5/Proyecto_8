@@ -1,0 +1,21 @@
+[
+    {"sujeto": "Andalucía", "predicado": "es", "objeto": "la comunidad autónoma más poblada de España"},
+    {"sujeto": "Andalucía", "predicado": "tiene", "objeto": "casi 8,6 millones de habitantes"},
+    {"sujeto": "Andalucía", "predicado": "concentra", "objeto": "10 de los 15 barrios más pobres de España"},
+    {"sujeto": "PIB per cápita de Andalucía en 2023", "predicado": "fue", "objeto": "71,2% del de España"},
+    {"sujeto": "Tasa de paro en Andalucía", "predicado": "supera", "objeto": "en 5 puntos a la tasa estatal"},
+    {"sujeto": "Salario medio en Andalucía", "predicado": "fue", "objeto": "18.322 euros"},
+    {"sujeto": "Salario medio en España", "predicado": "fue", "objeto": "26.949 euros"},
+    {"sujeto": "Andalucía", "predicado": "recibió", "objeto": "aproximadamente el 40% de los 94 millones de turistas que visitaron España"},
+    {"sujeto": "Presidente Moreno Bonilla", "predicado": "celebró", "objeto": "crecimiento del turismo en Andalucía"},
+    {"sujeto": "Plataforma Frente Amplio de Sevilla", "predicado": "propone", "objeto": "crear una fuerza política de izquierdas netamente andaluza"},
+    {"sujeto": "Nueva fuerza política propuesta", "predicado": "defiende", "objeto": "servicios públicos"},
+    {"sujeto": "Nueva fuerza política propuesta", "predicado": "defiende", "objeto": "derechos humanos"},
+    {"sujeto": "Nueva fuerza política propuesta", "predicado": "defiende", "objeto": "paz"},
+    {"sujeto": "Nueva fuerza política propuesta", "predicado": "aspira a", "objeto": "una Andalucía con un proyecto de futuro propio"},
+    {"sujeto": "Nueva fuerza política propuesta", "predicado": "se basa en", "objeto": "justicia social y sostenibilidad"},
+    {"sujeto": "Sumar", "predicado": "negó", "objeto": "portavocía parlamentaria a diputadas andaluzas"},
+    {"sujeto": "Andalucía", "predicado": "carece de", "objeto": "peso y presencia en agenda política y pública nacional"},
+    {"sujeto": "Blog 'En Abierto'", "predicado": "es", "objeto": "espacio para voces universitarias, políticas, asociativas, ciudadanas y cooperativas"},
+    {"sujeto": "Blog 'En Abierto'", "predicado": "pertenece a", "objeto": "eldiario.es"}
+]

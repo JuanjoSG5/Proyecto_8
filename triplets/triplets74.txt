@@ -1,0 +1,22 @@
+[
+    {"sujeto": "Bad Religion", "predicado": "es una", "objeto": "banda de punk-rock"},
+    {"sujeto": "Bad Religion", "predicado": "celebra", "objeto": "45 años de trayectoria"},
+    {"sujeto": "Bad Religion", "predicado": "incluye a", "objeto": "Brian Baker"},
+    {"sujeto": "Brian Baker", "predicado": "es", "objeto": "guitarrista de Bad Religion"},
+    {"sujeto": "Brian Baker", "predicado": "afirma", "objeto": "EEUU no es especial"},
+    {"sujeto": "Brian Baker", "predicado": "critica", "objeto": "gobierno de Donald Trump"},
+    {"sujeto": "Brian Baker", "predicado": "apoya", "objeto": "inclusión de mujeres en la música"},
+    {"sujeto": "Brian Baker", "predicado": "denuncia", "objeto": "machismo en la industria musical"},
+    {"sujeto": "Brian Baker", "predicado": "utiliza", "objeto": "el escenario como terapia"},
+    {"sujeto": "Brian Baker", "predicado": "prefiere", "objeto": "conciertos íntimos y pequeños"},
+    {"sujeto": "Anxela Baltar", "predicado": "es", "objeto": "cantante y guitarrista de Bala"},
+    {"sujeto": "Violeta Mosquera", "predicado": "es", "objeto": "batería de Bala"},
+    {"sujeto": "Bala", "predicado": "ha publicado", "objeto": "Besta"},
+    {"sujeto": "Besta", "predicado": "fue publicado en", "objeto": "2024"},
+    {"sujeto": "Brian Baker", "predicado": "afirma", "objeto": "Bad Religion suena mejor ahora"},
+    {"sujeto": "Brian Baker", "predicado": "cree", "objeto": "mujeres deben estar en primera línea del punk"},
+    {"sujeto": "Bad Religion", "predicado": "hará concierto en", "objeto": "A Coruña"},
+    {"sujeto": "Bad Religion", "predicado": "tiene gira en", "objeto": "península ibérica"},
+    {"sujeto": "Anxela Baltar", "predicado": "entrevista a", "objeto": "Brian Baker"},
+    {"sujeto": "elDiario.es", "predicado": "publicó entrevista entre", "objeto": "Anxela Baltar y Brian Baker"}
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "sujeto": "Antonio Garamendi",
+    "predicado": "es presidente de",
+    "objeto": "CEOE"
+  },
+  {
+    "sujeto": "Gerardo Cuerva",
+    "predicado": "es presidente de",
+    "objeto": "Cepyme"
+  },
+  {
+    "sujeto": "CEOE",
+    "predicado": "presiona a",
+    "objeto": "Cepyme"
+  },
+  {
+    "sujeto": "Antonio Garamendi",
+    "predicado": "apoya candidatura alternativa para",
+    "objeto": "presidencia de Cepyme"
+  },
+  {
+    "sujeto": "Gerardo Cuerva",
+    "predicado": "pretende suprimir",
+    "objeto": "voto delegado en elecciones de Cepyme"
+  },
+  {
+    "sujeto": "Gerardo Cuerva",
+    "predicado": "justifica supresión del voto delegado con",
+    "objeto": "informe jurídico"
+  },
+  {
+    "sujeto": "CEPYME",
+    "predicado": "suprime",
+    "objeto": "voto delegado en elecciones internas"
+  },
+  {
+    "sujeto": "Comité Ejecutivo de Cepyme",
+    "predicado": "rechazó",
+    "objeto": "supresión del voto delegado"
+  },
+  {
+    "sujeto": "Junta Directiva de Cepyme",
+    "predicado": "aprobó",
+    "objeto": "supresión del voto delegado"
+  },
+  {
+    "sujeto": "Miguel Garrido",
+    "predicado": "es vicepresidente primero de",
+    "objeto": "CEOE"
+  },
+  {
+    "sujeto": "Miguel Garrido",
+    "predicado": "instó a",
+    "objeto": "Gerardo Cuerva a rectificar en supresión del voto delegado"
+  },
+  {
+    "sujeto": "Elecciones de Cepyme",
+    "predicado": "están previstas en",
+    "objeto": "2025"
+  },
+  {
+    "sujeto": "CEOE",
+    "predicado": "carece de",
+    "objeto": "voto delegado en sus estatutos"
+  },
+  {
+    "sujeto": "ATA",
+    "predicado": "carece de",
+    "objeto": "voto delegado en sus estatutos"
+  },
+  {
+    "sujeto": "Suprimir el voto delegado",
+    "predicado": "busca garantizar",
+    "objeto": "voto libre y secreto"
+  }
+]

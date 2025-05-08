@@ -1,0 +1,23 @@
+[
+    {"sujeto": "robo de cable en Toledo", "predicado": "causó", "objeto": "interrupción de operaciones ferroviarias"},
+    {"sujeto": "robo de cable en Toledo", "predicado": "ocurrió en", "objeto": "cinco puntos en un radio de 10 kilómetros"},
+    {"sujeto": "Ministerio de Transportes y Movilidad Sostenible", "predicado": "calificó como", "objeto": "sabotaje premeditado"},
+    {"sujeto": "Ministerio de Transportes y Movilidad Sostenible", "predicado": "estimó", "objeto": "daños considerables para el sistema ferroviario y los viajeros"},
+    {"sujeto": "Óscar Puente", "predicado": "afirmó", "objeto": "acción coordinada y de escaso rédito económico"},
+    {"sujeto": "robo de cable en Toledo", "predicado": "afectó", "objeto": "más de 10.000 viajeros"},
+    {"sujeto": "robo de cable en Toledo", "predicado": "provocó", "objeto": "limitación de velocidad ferroviaria a 40 km/h"},
+    {"sujeto": "robo de cable en Toledo", "predicado": "consistió en", "objeto": "sustracción de 150 metros de cable"},
+    {"sujeto": "Ministerio de Transportes y Movilidad Sostenible", "predicado": "informó", "objeto": "el cable robado permite conocer la ubicación de los trenes"},
+    {"sujeto": "Adif", "predicado": "gestiona", "objeto": "más de 15.000 km de tendido ferroviario"},
+    {"sujeto": "Adif", "predicado": "inició", "objeto": "plan de refuerzo de seguridad en instalaciones"},
+    {"sujeto": "red ferroviaria", "predicado": "carece de", "objeto": "vigilancia por videovigilancia en toda la infraestructura"},
+    {"sujeto": "Iván Rivera", "predicado": "propuso", "objeto": "uso combinado de tecnologías de seguridad"},
+    {"sujeto": "Renfe", "predicado": "modificó", "objeto": "política de indemnizaciones en 2023"},
+    {"sujeto": "Renfe", "predicado": "tuvo un coste en indemnizaciones", "objeto": "42 millones de euros en 2023"},
+    {"sujeto": "robo de cobre en elecciones Catalunya 2024", "predicado": "afectó", "objeto": "red de Rodalies en Barcelona"},
+    {"sujeto": "robo de cobre en elecciones Catalunya 2024", "predicado": "costó", "objeto": "15 millones de euros"},
+    {"sujeto": "Mossos", "predicado": "detuvieron", "objeto": "cuatro personas por robo de cobre en 2024"},
+    {"sujeto": "Renfe", "predicado": "afrontó", "objeto": "400.000 euros en indemnizaciones por incidencia en túnel Atocha-Chamartín en agosto 2024"},
+    {"sujeto": "robo de cable", "predicado": "representa", "objeto": "problema recurrente de seguridad ferroviaria"},
+    {"sujeto": "Ministerio de Transportes y Movilidad Sostenible", "predicado": "considera", "objeto": "reforzar la seguridad como en época de terrorismo"}
+]

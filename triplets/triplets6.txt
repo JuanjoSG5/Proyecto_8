@@ -1,0 +1,13 @@
+[
+    {"sujeto": "Audiencia Nacional", "predicado": "confirmó", "objeto": "multa de 125.581 euros a RTVE"},
+    {"sujeto": "CNMC", "predicado": "impuso", "objeto": "multa de 125.581 euros a RTVE"},
+    {"sujeto": "RTVE", "predicado": "recibió multa por", "objeto": "publicidad encubierta en 'Masterchef Celebrity'"},
+    {"sujeto": "'Masterchef Celebrity' (décima edición)", "predicado": "incluyó", "objeto": "publicidad encubierta de 'Amelicius Delicius'"},
+    {"sujeto": "Amelicius", "predicado": "fue mencionada en", "objeto": "'Masterchef Celebrity' (décima edición)"},
+    {"sujeto": "Amelicius", "predicado": "es nombre comercial de", "objeto": "Amelia Platón"},
+    {"sujeto": "Amelia Platón", "predicado": "fue concursante de", "objeto": "'Masterchef' (novena edición)"},
+    {"sujeto": "RTVE", "predicado": "violó", "objeto": "regulación de publicidad en España"},
+    {"sujeto": "Amelicius Delicius", "predicado": "es marca de", "objeto": "productos de bienestar personal y alimentación"},
+    {"sujeto": "'Masterchef Celebrity'", "predicado": "emitió", "objeto": "publicidad de productos de Amelicius sin aviso comercial"},
+    {"sujeto": "CNMC", "predicado": "consideró", "objeto": "publicidad de Amelicius como comunicación comercial encubierta"}
+]

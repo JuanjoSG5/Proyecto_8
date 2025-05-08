@@ -1,0 +1,16 @@
+[
+    {"sujeto": "PSOE", "predicado": "criticó", "objeto": "Isabel Blanco"},
+    {"sujeto": "Isabel Blanco", "predicado": "es", "objeto": "vicepresidenta de la Junta de Castilla y León"},
+    {"sujeto": "Isabel Blanco", "predicado": "es", "objeto": "consejera de Familia e Igualdad de Oportunidades"},
+    {"sujeto": "PSOE", "predicado": "defiende que", "objeto": "Castilla y León no puede ser insolidaria y racista con el reparto de menores"},
+    {"sujeto": "Nuria Rubio", "predicado": "es", "objeto": "vicesecretaria general del PSOE de Castilla y León"},
+    {"sujeto": "Nuria Rubio", "predicado": "criticó", "objeto": "oposición de Isabel Blanco al modelo de acogida de menores"},
+    {"sujeto": "Gobierno de España", "predicado": "planteó", "objeto": "modelo de acogida de menores extranjeros no acompañados"},
+    {"sujeto": "Conferencia Sectorial de Infancia y Adolescencia", "predicado": "es", "objeto": "reunión entre el Gobierno y comunidades autónomas"},
+    {"sujeto": "Gobierno de España", "predicado": "aprobó", "objeto": "decreto de solidaridad obligatoria para acogida de menores"},
+    {"sujeto": "Nuria Rubio", "predicado": "afirmó que", "objeto": "algunas autonomías gobernadas por el PP envían datos incompletos"},
+    {"sujeto": "Junta de Castilla y León", "predicado": "emitió", "objeto": "orden para limitar acogida en Villablino y Soria"},
+    {"sujeto": "Villatoro", "predicado": "es", "objeto": "municipio leonés afectado por despoblación"},
+    {"sujeto": "Soria", "predicado": "es", "objeto": "localidad afectada por despoblación"},
+    {"sujeto": "Nuria Rubio", "predicado": "declaró que", "objeto": "los menores extranjeros pueden contribuir a combatir la despoblación"}
+]

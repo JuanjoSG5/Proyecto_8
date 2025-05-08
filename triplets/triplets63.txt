@@ -1,0 +1,14 @@
+[
+    {"sujeto": "Javier Zurro", "predicado": "es", "objeto": "periodista"},
+    {"sujeto": "Javier Zurro", "predicado": "especializado en", "objeto": "industria del cine"},
+    {"sujeto": "Javier Zurro", "predicado": "es licenciado en", "objeto": "periodismo"},
+    {"sujeto": "Javier Zurro", "predicado": "estudió en", "objeto": "Universidad de Valladolid"},
+    {"sujeto": "Javier Zurro", "predicado": "realizó", "objeto": "Máster en Análisis Audiovisual"},
+    {"sujeto": "Máster en Análisis Audiovisual", "predicado": "es impartido por", "objeto": "Universidad de Valladolid"},
+    {"sujeto": "Javier Zurro", "predicado": "realizó", "objeto": "curso de historia y estética cinematográfica"},
+    {"sujeto": "curso de historia y estética cinematográfica", "predicado": "es impartido por", "objeto": "Cátedra de Cine de Valladolid"},
+    {"sujeto": "Javier Zurro", "predicado": "trabajó en", "objeto": "El Norte de Castilla"},
+    {"sujeto": "Javier Zurro", "predicado": "fue responsable de información cinematográfica en", "objeto": "El Confidencial"},
+    {"sujeto": "Javier Zurro", "predicado": "fue responsable de información cinematográfica en", "objeto": "El Español"},
+    {"sujeto": "Javier Zurro", "predicado": "es autor en", "objeto": "elDiario.es"}
+]

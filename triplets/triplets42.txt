@@ -1,0 +1,12 @@
+[
+    {"sujeto": "elDiario.es", "predicado": "publica", "objeto": "La opinión de los socios y las socias"},
+    {"sujeto": "La opinión de los socios y las socias", "predicado": "es", "objeto": "un blog de participación ciudadana"},
+    {"sujeto": "La opinión de los socios y las socias", "predicado": "publica", "objeto": "artículos de socios y socias de elDiario.es"},
+    {"sujeto": "La opinión de los socios y las socias", "predicado": "sigue", "objeto": "Normas de participación de elDiario.es"},
+    {"sujeto": "Socios y socias de elDiario.es", "predicado": "pueden enviar", "objeto": "artículos para La opinión de los socios y las socias"},
+    {"sujeto": "Socios y socias de elDiario.es", "predicado": "pueden publicar", "objeto": "un máximo de dos artículos al mes"},
+    {"sujeto": "La opinión de los socios y las socias", "predicado": "no publica", "objeto": "artículos anónimos"},
+    {"sujeto": "elDiario.es", "predicado": "selecciona", "objeto": "los artículos más interesantes para su publicación"},
+    {"sujeto": "Socios y socias de elDiario.es", "predicado": "son responsables legales", "objeto": "de sus intervenciones en La opinión de los socios y las socias"},
+    {"sujeto": "Artículos en La opinión de los socios y las socias", "predicado": "no admiten", "objeto": "cambios una vez publicados salvo erratas"}
+]

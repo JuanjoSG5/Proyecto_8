@@ -1,0 +1,18 @@
+[
+    {"sujeto": "Puy du Fou España", "predicado": "quiere construir", "objeto": "tres hoteles"},
+    {"sujeto": "Puy du Fou España", "predicado": "ubicación prevista", "objeto": "finca Zurraquín"},
+    {"sujeto": "finca Zurraquín", "predicado": "ubicada en", "objeto": "Toledo"},
+    {"sujeto": "Puy du Fou España", "predicado": "ha solicitado", "objeto": "modificación del Proyecto de Singular Interés"},
+    {"sujeto": "Proyecto de Singular Interés", "predicado": "permite", "objeto": "simplificación de trámites burocráticos y ambientales"},
+    {"sujeto": "Consejería de Desarrollo Sostenible de Castilla-La Mancha", "predicado": "exige", "objeto": "evaluación ambiental estratégica ordinaria"},
+    {"sujeto": "Puy du Fou España", "predicado": "prevé apertura del primer hotel en", "objeto": "2027 o 2028"},
+    {"sujeto": "Puy du Fou España", "predicado": "prevé apertura del resto de hoteles en", "objeto": "fin de 2032"},
+    {"sujeto": "Erwan de la Villéon", "predicado": "es", "objeto": "consejero delegado de Puy du Fou España"},
+    {"sujeto": "Toledo", "predicado": "necesita", "objeto": "hoteles de calidad"},
+    {"sujeto": "Toledo", "predicado": "está", "objeto": "hipersaturada"},
+    {"sujeto": "Puy du Fou España", "predicado": "prevé", "objeto": "3 millones de visitas anuales en 2031"},
+    {"sujeto": "Toledo", "predicado": "aspira a ser", "objeto": "Capital Europea de la Cultura en 2031"},
+    {"sujeto": "parque Puy du Fou", "predicado": "superficie actual", "objeto": "80.573 m²"},
+    {"sujeto": "Puy du Fou España", "predicado": "ha solicitado", "objeto": "ampliación a 117.008 m²"},
+    {"sujeto": "ampliación del parque", "predicado": "requiere", "objeto": "más agua"}
+]

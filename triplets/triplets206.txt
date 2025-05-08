@@ -1,0 +1,18 @@
+[
+    {"sujeto": "Javier Valenzuela", "predicado": "es", "objeto": "periodista"},
+    {"sujeto": "Javier Valenzuela", "predicado": "es", "objeto": "novelista"},
+    {"sujeto": "Javier Valenzuela", "predicado": "trabajó en", "objeto": "El País"},
+    {"sujeto": "Javier Valenzuela", "predicado": "ocupó el cargo de", "objeto": "cronista de sucesos en El País"},
+    {"sujeto": "Javier Valenzuela", "predicado": "ocupó el cargo de", "objeto": "corresponsal en Beirut"},
+    {"sujeto": "Javier Valenzuela", "predicado": "ocupó el cargo de", "objeto": "corresponsal en Rabat"},
+    {"sujeto": "Javier Valenzuela", "predicado": "ocupó el cargo de", "objeto": "corresponsal en París"},
+    {"sujeto": "Javier Valenzuela", "predicado": "ocupó el cargo de", "objeto": "corresponsal en Washington"},
+    {"sujeto": "Javier Valenzuela", "predicado": "ocupó el cargo de", "objeto": "director adjunto en El País"},
+    {"sujeto": "Javier Valenzuela", "predicado": "fundó", "objeto": "revista tintaLibre"},
+    {"sujeto": "Javier Valenzuela", "predicado": "ha publicado", "objeto": "15 libros"},
+    {"sujeto": "Javier Valenzuela", "predicado": "es autor de", "objeto": "'Demasiado tarde para comprender'"},
+    {"sujeto": "'Demasiado tarde para comprender'", "predicado": "es", "objeto": "libro de Javier Valenzuela"},
+    {"sujeto": "Javier Valenzuela", "predicado": "escribe en", "objeto": "Zona Crítica"},
+    {"sujeto": "Javier Valenzuela", "predicado": "tiene cuenta en", "objeto": "Bluesky"},
+    {"sujeto": "Cuenta en Bluesky de Javier Valenzuela", "predicado": "es", "objeto": "@javier-valenzuela.bsky.social"}
+]

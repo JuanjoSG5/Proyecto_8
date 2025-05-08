@@ -1,0 +1,19 @@
+[
+    {"sujeto": "Ángela de Miguel", "predicado": "inició campaña para liderar", "objeto": "Cepyme"},
+    {"sujeto": "Ángela de Miguel", "predicado": "atacó a", "objeto": "Gerardo Cuerva"},
+    {"sujeto": "Gerardo Cuerva", "predicado": "es líder de", "objeto": "Cepyme"},
+    {"sujeto": "Cepyme", "predicado": "programó elecciones para", "objeto": "20 de mayo de 2025"},
+    {"sujeto": "Ángela de Miguel", "predicado": "es presidenta de", "objeto": "CEOE Valladolid"},
+    {"sujeto": "Antonio Garamendi", "predicado": "apoyó candidatura de", "objeto": "Ángela de Miguel"},
+    {"sujeto": "CEOE", "predicado": "presionó a", "objeto": "Gerardo Cuerva"},
+    {"sujeto": "Presidente de Cepyme", "predicado": "avisó al", "objeto": "Gobierno"},
+    {"sujeto": "Presidente de Cepyme", "predicado": "advirtió que", "objeto": "otros sectores podrían seguir protestas del campo"},
+    {"sujeto": "CEOE", "predicado": "impugnó la entrada de", "objeto": "PIMEC en la Comisión de Convenios"},
+    {"sujeto": "Ministerio de Trabajo", "predicado": "incorporó a", "objeto": "PIMEC en la Comisión de Convenios"},
+    {"sujeto": "CEOE", "predicado": "entró en conflicto con", "objeto": "Cepyme"},
+    {"sujeto": "Cepyme", "predicado": "es patronal de", "objeto": "pequeñas y medianas empresas"},
+    {"sujeto": "CEOE", "predicado": "es patronal de", "objeto": "grandes empresas"},
+    {"sujeto": "CEOE", "predicado": "mantuvo conflicto con", "objeto": "PIMEC"},
+    {"sujeto": "CEP", "predicado": "participa en", "objeto": "Comisión de Convenios"},
+    {"sujeto": "Ángela de Miguel", "predicado": "es candidata a presidir", "objeto": "Cepyme"}
+]

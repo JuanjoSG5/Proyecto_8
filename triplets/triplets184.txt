@@ -1,0 +1,87 @@
+[
+  {
+    "sujeto": "El Museo del Greco",
+    "predicado": "reinterpreta",
+    "objeto": "figura de Perséfone"
+  },
+  {
+    "sujeto": "Perséfone",
+    "predicado": "descrito como",
+    "objeto": "diosa empoderada"
+  },
+  {
+    "sujeto": "Toledo Beat Festival",
+    "predicado": "celebra",
+    "objeto": "tercera edición"
+  },
+  {
+    "sujeto": "Toledo Beat Festival",
+    "predicado": "quiere incorporar",
+    "objeto": "artistas internacionales"
+  },
+  {
+    "sujeto": "padres de alumnos de Torrijos",
+    "predicado": "denuncian",
+    "objeto": "acoso escolar"
+  },
+  {
+    "sujeto": "acoso escolar",
+    "predicado": "ocurre en",
+    "objeto": "tres centros educativos de Torrijos"
+  },
+  {
+    "sujeto": "el alcalde de Toledo",
+    "predicado": "celebra",
+    "objeto": "nuevas reglas de explotación del trasvase"
+  },
+  {
+    "sujeto": "nuevas reglas de explotación del trasvase",
+    "predicado": "descrito como",
+    "objeto": "oportunidad extraordinaria"
+  },
+  {
+    "sujeto": "Puy du Fou",
+    "predicado": "afirma",
+    "objeto": "Toledo necesita hoteles"
+  },
+  {
+    "sujeto": "Puy du Fou",
+    "predicado": "planea abrir",
+    "objeto": "tres hoteles en el parque"
+  },
+  {
+    "sujeto": "Puy du Fou",
+    "predicado": "considera",
+    "objeto": "apertura no supondrá más ocupación"
+  },
+  {
+    "sujeto": "arzobispo de Toledo",
+    "predicado": "pide",
+    "objeto": "Papa dialogante"
+  },
+  {
+    "sujeto": "Papa",
+    "predicado": "debe dialogar con",
+    "objeto": "Dios, la Iglesia y el mundo"
+  },
+  {
+    "sujeto": "Franco",
+    "predicado": "construyó",
+    "objeto": "West Point junto al Tajo"
+  },
+  {
+    "sujeto": "West Point junto al Tajo",
+    "predicado": "construido con",
+    "objeto": "trabajo de más de 3000 presos"
+  },
+  {
+    "sujeto": "Cátedra del Tajo",
+    "predicado": "considera",
+    "objeto": "insuficiente propuesta cambiar reglas trasvase Segura"
+  },
+  {
+    "sujeto": "símbolos de justicia del siglo XVI",
+    "predicado": "usados como",
+    "objeto": "elemento para difundir patrimonio pueblos toledanos"
+  }
+]

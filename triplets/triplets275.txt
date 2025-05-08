@@ -1,0 +1,62 @@
+[
+    {
+        "sujeto": "'Teleclub' (documental)",
+        "predicado": "dirigido por",
+        "objeto": "Alba Camazón"
+    },
+    {
+        "sujeto": "Artículo 'De plaza de Castilla a criar vacas en Guadalajara'",
+        "predicado": "escrito por",
+        "objeto": "Pilar Virtudes"
+    },
+    {
+        "sujeto": "Artículo sobre memoria oral en Jaén",
+        "predicado": "escrito por",
+        "objeto": "Álvaro López"
+    },
+    {
+        "sujeto": "Artículo 'Campanadas contra la despoblación'",
+        "predicado": "escrito por",
+        "objeto": "Rioja2"
+    },
+    {
+        "sujeto": "Provincia de Teruel",
+        "predicado": "conmemoró",
+        "objeto": "sexto aniversario de la Revuelta de la España Vaciada"
+    },
+    {
+        "sujeto": "Artículo sobre la revuelta en Cuenca",
+        "predicado": "escrito por",
+        "objeto": "Francisca Bravo Miranda"
+    },
+    {
+        "sujeto": "Cuenca Ahora",
+        "predicado": "asumió Alcaldía",
+        "objeto": "Carrascosa"
+    },
+    {
+        "sujeto": "Jonathan Arribas",
+        "predicado": "es autor de",
+        "objeto": "entrevista sobre vida en pueblos y homofobia"
+    },
+    {
+        "sujeto": "Artículo sobre 'La Escuela de los Pueblos'",
+        "predicado": "escrito por",
+        "objeto": "César Aldecoa"
+    },
+    {
+        "sujeto": "La España Vaciada",
+        "predicado": "llevó al Congreso",
+        "objeto": "Pacto de Financiación Solidaria"
+    },
+    {
+        "sujeto": "Cuenca Ahora",
+        "predicado": "propuso al Congreso",
+        "objeto": "construcción de hospitales comarcales en Tarancón y Motilla del Palancar"
+    },
+    {
+        "sujeto": "La España Vaciada",
+        "predicado": "demandó",
+        "objeto": "30.000 millones de euros al año para el 70% del territorio"
+    }
+]

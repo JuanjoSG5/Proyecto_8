@@ -1,0 +1,20 @@
+[
+    {"sujeto": "fábrica de Profand", "predicado": "tuvo", "objeto": "fuga de amoniaco"},
+    {"sujeto": "fuga de amoniaco", "predicado": "ocurrió en", "objeto": "calle Bari, número 3, polígono Plaza, Zaragoza"},
+    {"sujeto": "fuga de amoniaco", "predicado": "causó", "objeto": "evacuación de más de 500 trabajadores"},
+    {"sujeto": "fuga de amoniaco", "predicado": "causó", "objeto": "intoxicación de dos personas"},
+    {"sujeto": "empresa externa", "predicado": "detectó", "objeto": "fuga de amoniaco"},
+    {"sujeto": "fuga de amoniaco", "predicado": "se produjo en", "objeto": "sistema de refrigeración"},
+    {"sujeto": "fuga de amoniaco", "predicado": "se localizó en", "objeto": "tubería de dispositivo de frío"},
+    {"sujeto": "fuga de amoniaco", "predicado": "afectó", "objeto": "400 litros de amoniaco"},
+    {"sujeto": "sistema de refrigeración", "predicado": "pertenece a", "objeto": "planta de Profand"},
+    {"sujeto": "empresa Profand", "predicado": "adquirió", "objeto": "planta de Caladero en 2019"},
+    {"sujeto": "planta de Caladero", "predicado": "era propiedad de", "objeto": "Mercadona"},
+    {"sujeto": "empresa Profand", "predicado": "emplea", "objeto": "más de 800 personas"},
+    {"sujeto": "personas intoxicadas", "predicado": "fueron atendidas por", "objeto": "ambulancia del 080"},
+    {"sujeto": "fuga de amoniaco", "predicado": "fue neutralizada por", "objeto": "Bomberos del Ayuntamiento de Zaragoza"},
+    {"sujeto": "Bomberos del Ayuntamiento de Zaragoza", "predicado": "realizaron", "objeto": "trabajos de ventilación"},
+    {"sujeto": "David Galve", "predicado": "es", "objeto": "jefe de intervención de Bomberos"},
+    {"sujeto": "David Galve", "predicado": "explicó", "objeto": "rotura de conducto en sistema de refrigeración"},
+    {"sujeto": "polígono Plaza", "predicado": "está ubicado en", "objeto": "Zaragoza"}
+]

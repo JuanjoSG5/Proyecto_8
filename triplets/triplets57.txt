@@ -1,0 +1,6 @@
+[
+    {"sujeto": "Sopa de letras", "predicado": "es un juego disponible en", "objeto": "Juegos elDiario.es"},
+    {"sujeto": "Sopa de letras", "predicado": "tiene URL", "objeto": "https://www.eldiario.es/juegos/game/word-search"},
+    {"sujeto": "Sopa de letras", "predicado": "pertenece a la sección", "objeto": "Juegos"},
+    {"sujeto": "Juegos", "predicado": "es una sección de", "objeto": "elDiario.es"}
+]

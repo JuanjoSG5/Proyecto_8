@@ -1,0 +1,22 @@
+[
+    {"sujeto": "Ayuntamiento de Barcelona", "predicado": "inició", "objeto": "trámites para desalojar asentamientos en Vallcarca"},
+    {"sujeto": "Ayuntamiento de Barcelona", "predicado": "incoó", "objeto": "cuatro expedientes administrativos"},
+    {"sujeto": "solar de Vallcarca", "predicado": "es propiedad", "objeto": "Ayuntamiento de Barcelona"},
+    {"sujeto": "solar de Vallcarca", "predicado": "es propiedad", "objeto": "Núñez y Navarro"},
+    {"sujeto": "edificios afectados", "predicado": "son", "objeto": "titularidad pública"},
+    {"sujeto": "plan de transformación urbanística de Vallcarca", "predicado": "fue aprobado en", "objeto": "2019"},
+    {"sujeto": "Ayuntamiento de Barcelona", "predicado": "planea", "objeto": "obras de urbanización en verano de 2025"},
+    {"sujeto": "plan de transformación urbanística de Vallcarca", "predicado": "incluye", "objeto": "reforma de la avenida"},
+    {"sujeto": "plan de transformación urbanística de Vallcarca", "predicado": "incluye", "objeto": "creación de espacio verde"},
+    {"sujeto": "plan de transformación urbanística de Vallcarca", "predicado": "incluye", "objeto": "construcción de 500 viviendas"},
+    {"sujeto": "construcción de 500 viviendas", "predicado": "incluye", "objeto": "40% de viviendas públicas"},
+    {"sujeto": "Laia Bonet", "predicado": "es", "objeto": "teniente de alcaldía de Urbanismo"},
+    {"sujeto": "Laia Bonet", "predicado": "afirmó", "objeto": "necesidad de reforma urbanística en Vallcarca"},
+    {"sujeto": "Sonia Fuertes", "predicado": "es", "objeto": "comisionada de Acción Social del Ayuntamiento de Barcelona"},
+    {"sujeto": "Sonia Fuertes", "predicado": "declaró", "objeto": "el Ayuntamiento ofrecerá cobertura habitacional"},
+    {"sujeto": "asentamientos en Vallcarca", "predicado": "acogen", "objeto": "unas 30 personas según el Ayuntamiento"},
+    {"sujeto": "asentamientos en Vallcarca", "predicado": "acogen", "objeto": "más de 70 personas según entidades vecinales"},
+    {"sujeto": "servicios sociales municipales", "predicado": "acompañan", "objeto": "habitantes de asentamientos desde 2019"},
+    {"sujeto": "habitantes de asentamientos en Vallcarca", "predicado": "incluyen", "objeto": "menores de edad"},
+    {"sujeto": "entidades del barrio de Vallcarca", "predicado": "denuncian", "objeto": "falta de asistencia municipal constante"}
+]

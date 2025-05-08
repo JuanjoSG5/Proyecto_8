@@ -1,0 +1,17 @@
+[
+    {"sujeto": "Hachiko", "predicado": "tipo", "objeto": "perro"},
+    {"sujeto": "Hachiko", "predicado": "raza", "objeto": "rottweiler"},
+    {"sujeto": "Hachiko", "predicado": "actuó", "objeto": "interponerse entre los asaltantes y la víctima"},
+    {"sujeto": "Hachiko", "predicado": "evitó", "objeto": "robo en el barrio de Torres Bellas"},
+    {"sujeto": "Alcorcón", "predicado": "homenajeó", "objeto": "Hachiko"},
+    {"sujeto": "Callejón perro Hachiko", "predicado": "ubicado entre", "objeto": "calles Camorro y Plaza Sierra de Navacerrada"},
+    {"sujeto": "Callejón perro Hachiko", "predicado": "nombrado en honor a", "objeto": "Hachiko"},
+    {"sujeto": "José Manuel Gutiérrez Díaz", "predicado": "es dueño de", "objeto": "Hachiko"},
+    {"sujeto": "José Manuel Gutiérrez Díaz", "predicado": "recibió", "objeto": "diploma de reconocimiento en 2021"},
+    {"sujeto": "Ayuntamiento de Alcorcón", "predicado": "creó", "objeto": "Callejón perro Hachiko"},
+    {"sujeto": "Ayuntamiento de Alcorcón", "predicado": "inició iniciativa", "objeto": "ciudad amiga de los animales"},
+    {"sujeto": "Iniciativa ciudad amiga de los animales", "predicado": "incluye", "objeto": "campañas por la adopción responsable"},
+    {"sujeto": "Iniciativa ciudad amiga de los animales", "predicado": "incluye", "objeto": "creación de espacios de esparcimiento para mascotas"},
+    {"sujeto": "Hachiko", "predicado": "falleció", "objeto": "agosto de 2024"},
+    {"sujeto": "Hachiko", "predicado": "edad al fallecer", "objeto": "11 años"}
+]

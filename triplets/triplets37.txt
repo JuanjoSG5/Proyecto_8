@@ -1,0 +1,72 @@
+[
+    {
+        "sujeto": "Donald Trump",
+        "predicado": "planea deportar migrantes a",
+        "objeto": "Libia"
+    },
+    {
+        "sujeto": "The New York Times",
+        "predicado": "informó",
+        "objeto": "deportaciones planeadas de migrantes a Libia por la administración Trump"
+    },
+    {
+        "sujeto": "Libia",
+        "predicado": "contiene",
+        "objeto": "centros de detención con condiciones deplorables"
+    },
+    {
+        "sujeto": "Organizaciones no gubernamentales",
+        "predicado": "denunciaron",
+        "objeto": "condiciones inhumanas en centros de detención en Libia"
+    },
+    {
+        "sujeto": "ONU",
+        "predicado": "denunció",
+        "objeto": "abusos contra migrantes en Libia"
+    },
+    {
+        "sujeto": "Departamento de Defensa de EE.UU.",
+        "predicado": "ha participado en deportaciones a",
+        "objeto": "India"
+    },
+    {
+        "sujeto": "Departamento de Defensa de EE.UU.",
+        "predicado": "ha participado en deportaciones a",
+        "objeto": "Guatemala"
+    },
+    {
+        "sujeto": "Departamento de Defensa de EE.UU.",
+        "predicado": "ha participado en deportaciones a",
+        "objeto": "Ecuador"
+    },
+    {
+        "sujeto": "El Salvador",
+        "predicado": "aceptó recibir",
+        "objeto": "migrantes deportados por EE.UU."
+    },
+    {
+        "sujeto": "Costa Rica",
+        "predicado": "aceptó recibir",
+        "objeto": "migrantes deportados por EE.UU."
+    },
+    {
+        "sujeto": "Panamá",
+        "predicado": "aceptó recibir",
+        "objeto": "migrantes deportados por EE.UU."
+    },
+    {
+        "sujeto": "México",
+        "predicado": "aceptó recibir",
+        "objeto": "migrantes deportados por EE.UU."
+    },
+    {
+        "sujeto": "Unión Europea",
+        "predicado": "mantiene acuerdos con",
+        "objeto": "Libia para frenar la migración hacia Europa"
+    },
+    {
+        "sujeto": "Washington",
+        "predicado": "busca acuerdos con",
+        "objeto": "gobiernos africanos para aceptar migrantes"
+    }
+]

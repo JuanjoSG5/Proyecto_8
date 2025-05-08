@@ -1,0 +1,23 @@
+[
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "¿Es mejor estirar antes o después de hacer ejercicio?"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Cuatro ejercicios que te darán los mismos beneficios (o más) que hacer pesas"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "¿Qué es la estrategia de 'racha' y cómo puedes usarla para afianzar buenos hábitos?"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "“Nunca he tenido alergias y ahora sí”: ¿nos podemos volver alérgicos con el tiempo?"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "No solo importa el número de pasos: por qué el ritmo al que caminamos influye en nuestra forma física"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Ejercicios pliométricos: los movimientos explosivos que pueden ayudarte frente al envejecimiento"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "“Me quedo sin dormir para terminar la temporada”: ¿qué efectos pueden tener los atracones de 'streaming'?"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Cómo tener más energía para levantarte de la cama por las mañanas"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Por qué tomar vitamina K junto con la vitamina D"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Cómo aprovechar el cambio de hora de verano para adoptar nuevos (y mejores) hábitos"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "“Se habla de los efectos negativos de los zumos de frutas, pero ¿ocurre igual con los gazpachos y purés?”"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Entrenar hasta el fallo muscular: ¿es tan importante para ganar fuerza y volumen?"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Un paseo por la playa o ejercicio junto a un río: cómo las actividades cerca del agua mejoran nuestro bienestar"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Tus caderas son importantes: cómo y por qué mejorar su movilidad"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Cómo combatir el bajón que nos da después de comer sin tirar de té ni café"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Música para concentrarse: ¿cuándo ayuda realmente y cuándo nos distrae?"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "15 minutos al día antes de salir de casa: una rutina de entrenamiento completa para toda la semana"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Por qué estamos siempre tan cansados y qué podemos hacer para solucionarlo"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Objetivo maratón: cómo prepararte a fondo para hacer una carrera sin hacerte daño"},
+    {"sujeto": "Darío Pescador", "predicado": "es autor de", "objeto": "Qué es el 'colocón' del corredor y cómo puedes aprovecharlo para mejorar tu entrenamiento"},
+    {"sujeto": "elDiario.es", "predicado": "publica sección", "objeto": "Tu mejor yo"}
+]

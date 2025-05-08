@@ -1,0 +1,15 @@
+[
+    {"sujeto": "Robledillo de Gata", "predicado": "es", "objeto": "pueblo extremeño"},
+    {"sujeto": "Robledillo de Gata", "predicado": "es descrito como", "objeto": "cápsula del tiempo"},
+    {"sujeto": "Peñíscola", "predicado": "tiene", "objeto": "castillo defensivo costero"},
+    {"sujeto": "Musikverein", "predicado": "alberga", "objeto": "Concierto de Año Nuevo de Viena"},
+    {"sujeto": "Almeida", "predicado": "es", "objeto": "villa portuguesa"},
+    {"sujeto": "Almeida", "predicado": "tiene", "objeto": "fortificación estrellada"},
+    {"sujeto": "Ruta del Cocido Madrileño 2025", "predicado": "incluye", "objeto": "menú especial"},
+    {"sujeto": "Ruta del Cocido Madrileño 2025", "predicado": "incluye", "objeto": "restaurantes participantes"},
+    {"sujeto": "Vall de Núria", "predicado": "se accede mediante", "objeto": "tren cremallera"},
+    {"sujeto": "Vall de Núria", "predicado": "está ubicado en", "objeto": "Pirineos"},
+    {"sujeto": "Wolfgang Amadeus Mozart", "predicado": "es relacionado con", "objeto": "Musikverein"},
+    {"sujeto": "Casablanca", "predicado": "está en", "objeto": "Marruecos"},
+    {"sujeto": "Ruta de senderismo en Cantabria", "predicado": "termina en", "objeto": "cascada"},
+    {"sujeto": "Ruta de senderismo en Cantabria", "predicado": "atraviesa", "objeto": ]

@@ -1,0 +1,23 @@
+[
+    {"sujeto": "Yukio Mishima", "predicado": "es autor de", "objeto": "Sed de amor"},
+    {"sujeto": "Samantha Harvey", "predicado": "es autora de", "objeto": "Orbital"},
+    {"sujeto": "Samantha Harvey", "predicado": "ganó", "objeto": "Premio Booker 2024"},
+    {"sujeto": "Polly Morland", "predicado": "es autora de", "objeto": "Una mujer afortunada. Historia de una médica rural"},
+    {"sujeto": "Francisco Casavella", "predicado": "es autor de", "objeto": "El día del Watusi"},
+    {"sujeto": "Annie Ernaux", "predicado": "es autora de", "objeto": "Diario del afuera"},
+    {"sujeto": "Peter Burke", "predicado": "es autor de", "objeto": "Ignorancia"},
+    {"sujeto": "Nathan Thrall", "predicado": "es autor de", "objeto": "Un día en la vida de Abed Salama"},
+    {"sujeto": "Louisa Yousfi", "predicado": "es autora de", "objeto": "Seguir siendo bárbaro"},
+    {"sujeto": "Stefan Zweig", "predicado": "es autor de", "objeto": "El mundo de ayer"},
+    {"sujeto": "Laia Perearnau", "predicado": "es autora de", "objeto": "La pasadora"},
+    {"sujeto": "Juan Marsé", "predicado": "es autor de", "objeto": "Si te dicen que caí"},
+    {"sujeto": "Sara Mesa", "predicado": "es autora de", "objeto": "Oposición"},
+    {"sujeto": "Agus Morales", "predicado": "es autor de", "objeto": "La hipocresía solidaria"},
+    {"sujeto": "Sally Rooney", "predicado": "es autora de", "objeto": "Gente Normal"},
+    {"sujeto": "Jaime Rubio Hancock", "predicado": "es autor de", "objeto": "Sitges"},
+    {"sujeto": "Marta Polo Ysalgué", "predicado": "es autora de", "objeto": "Cómo construir una mentira"},
+    {"sujeto": "Philippe Sands", "predicado": "es autor de", "objeto": "Calle Londres 38"},
+    {"sujeto": "Gueorgui Gospodínov", "predicado": "es autor de", "objeto": "Las Tempestálidas"},
+    {"sujeto": "Marta Orriols", "predicado": "es autora de", "objeto": "Ese lugar al que llamamos casa"},
+    {"sujeto": "elDiario.es Catalunya", "predicado": "recomienda lectura para", "objeto": "Sant Jordi 2025"}
+]

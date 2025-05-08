@@ -1,0 +1,18 @@
+[
+    {"sujeto": "tarta de galleta Lotus", "predicado": "es una", "objeto": "receta sin horno"},
+    {"sujeto": "tarta de galleta Lotus", "predicado": "usa como base", "objeto": "galletas Lotus Biscoff"},
+    {"sujeto": "tarta de galleta Lotus", "predicado": "usa como ingrediente", "objeto": "queso crema para untar"},
+    {"sujeto": "tarta de galleta Lotus", "predicado": "usa como ingrediente", "objeto": "nata para montar"},
+    {"sujeto": "tarta de galleta Lotus", "predicado": "usa como ingrediente", "objeto": "crema de galletas Lotus"},
+    {"sujeto": "tarta de galleta Lotus", "predicado": "usa como ingrediente", "objeto": "gelatina neutra"},
+    {"sujeto": "tarta de galleta Lotus", "predicado": "tiene cobertura de", "objeto": "crema de galletas Lotus"},
+    {"sujeto": "tarta de galleta Lotus", "predicado": "se sirve", "objeto": "fría"},
+    {"sujeto": "Edu Molina", "predicado": "es autor de", "objeto": "Una receta para hacer tarta de galleta Lotus sin complicaciones"},
+    {"sujeto": "galletas Lotus", "predicado": "tienen sabor a", "objeto": "caramelo y canela"},
+    {"sujeto": "galletas Lotus", "predicado": "son de origen", "objeto": "Bélgica"},
+    {"sujeto": "crema de galletas Lotus", "predicado": "se utiliza como", "objeto": "ingrediente de repostería"},
+    {"sujeto": "tarta de galleta Lotus", "predicado": "es un", "objeto": "postre cremoso"},
+    {"sujeto": "tarta de galleta Lotus", "predicado": "es adecuada para", "objeto": "cualquier ocasión"},
+    {"sujeto": "receta tarta de galleta Lotus", "predicado": "fue publicada en", "objeto": "elDiario.es"},
+    {"sujeto": "receta tarta de galleta Lotus", "predicado": "fue publicada el", "objeto": "2025-05-07"}
+]

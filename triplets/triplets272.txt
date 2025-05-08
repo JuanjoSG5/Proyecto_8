@@ -1,0 +1,107 @@
+[
+    {
+        "sujeto": "José Luis Martínez-Almeida",
+        "predicado": "inauguró",
+        "objeto": "sala de ensayos Mario Vaquerizo"
+    },
+    {
+        "sujeto": "sala de ensayos Mario Vaquerizo",
+        "predicado": "está ubicada en",
+        "objeto": "Centro Cultural Galileo"
+    },
+    {
+        "sujeto": "Centro Cultural Galileo",
+        "predicado": "está ubicado en",
+        "objeto": "Chamberí"
+    },
+    {
+        "sujeto": "Ayuntamiento de Madrid",
+        "predicado": "dedicó",
+        "objeto": "sala de ensayos Mario Vaquerizo"
+    },
+    {
+        "sujeto": "Mario Vaquerizo",
+        "predicado": "es",
+        "objeto": "cantante de Nancys Rubias"
+    },
+    {
+        "sujeto": "Mario Vaquerizo",
+        "predicado": "recibió homenaje",
+        "objeto": "en vida"
+    },
+    {
+        "sujeto": "PSOE",
+        "predicado": "criticó",
+        "objeto": "dedicación de la sala a Mario Vaquerizo"
+    },
+    {
+        "sujeto": "Más Madrid",
+        "predicado": "criticó",
+        "objeto": "dedicación de la sala a Mario Vaquerizo"
+    },
+    {
+        "sujeto": "PP",
+        "predicado": "apoyó",
+        "objeto": "dedicación de la sala a Mario Vaquerizo"
+    },
+    {
+        "sujeto": "Vox",
+        "predicado": "apoyó",
+        "objeto": "dedicación de la sala a Mario Vaquerizo"
+    },
+    {
+        "sujeto": "Isabel Díaz Ayuso",
+        "predicado": "tiene vínculo de amistad con",
+        "objeto": "Mario Vaquerizo"
+    },
+    {
+        "sujeto": "Mario Vaquerizo",
+        "predicado": "ha trabajado con",
+        "objeto": "Comunidad de Madrid"
+    },
+    {
+        "sujeto": "Nancys Rubias",
+        "predicado": "recibió contratos de",
+        "objeto": "municipios gobernados por el PP"
+    },
+    {
+        "sujeto": "Mario Vaquerizo",
+        "predicado": "protagonizó",
+        "objeto": "vídeo promocional de la Comunidad de Madrid"
+    },
+    {
+        "sujeto": "Mario Vaquerizo",
+        "predicado": "fue",
+        "objeto": "pregonero en 2021 en las fiestas de la Virgen de la Paloma"
+    },
+    {
+        "sujeto": "Nancys Rubias",
+        "predicado": "actuó en",
+        "objeto": "fiestas de Moratalaz"
+    },
+    {
+        "sujeto": "Nancys Rubias",
+        "predicado": "actuó en",
+        "objeto": "fiestas de San Isidro"
+    },
+    {
+        "sujeto": "Nancys Rubias",
+        "predicado": "actuó en",
+        "objeto": "fiestas de La Florida"
+    },
+    {
+        "sujeto": "Nancys Rubias",
+        "predicado": "recibió",
+        "objeto": "más de 65.000 euros del Ayuntamiento de Madrid"
+    },
+    {
+        "sujeto": "sala de ensayos Mario Vaquerizo",
+        "predicado": "fue aprobada el",
+        "objeto": "10 de abril de 2025"
+    },
+    {
+        "sujeto": "sala de ensayos Mario Vaquerizo",
+        "predicado": "fue inaugurada el",
+        "objeto": "22 de abril de 2025"
+    }
+]

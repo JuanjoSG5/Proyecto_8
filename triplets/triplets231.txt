@@ -1,0 +1,22 @@
+[
+    {"sujeto": "apagón del lunes", "predicado": "provocó", "objeto": "recrudecimiento de la batalla ideológica entre renovables y nuclear"},
+    {"sujeto": "Pedro Sánchez", "predicado": "pidió", "objeto": "colaboración a las eléctricas para esclarecer causas del apagón"},
+    {"sujeto": "Pedro Sánchez", "predicado": "afirmó", "objeto": "las centrales nucleares han sido un problema"},
+    {"sujeto": "Red Eléctrica de España", "predicado": "descartó", "objeto": "ciberataque como causa del apagón"},
+    {"sujeto": "apagón del lunes", "predicado": "causó", "objeto": "desconexión de 15 GW de generación"},
+    {"sujeto": "apagón del lunes", "predicado": "desconectó", "objeto": "interconexiones con Francia"},
+    {"sujeto": "apagón del lunes", "predicado": "provocó", "objeto": "desconexión de generación renovable"},
+    {"sujeto": "UNEF", "predicado": "afirmó", "objeto": "las renovables no se desconectaron voluntariamente"},
+    {"sujeto": "UNEF", "predicado": "afirmó", "objeto": "las renovables pueden contribuir a resolver perturbaciones"},
+    {"sujeto": "UNEF", "predicado": "reclamó", "objeto": "procedimiento de operación 7.4 de la CNMC"},
+    {"sujeto": "UNEF", "predicado": "reclamó", "objeto": "plan europeo de acción de almacenamiento"},
+    {"sujeto": "Javier Andaluz", "predicado": "afirmó", "objeto": "un horizonte 100% renovable en España es posible"},
+    {"sujeto": "energías renovables", "predicado": "cubrieron", "objeto": "56,8% de la electricidad de España en 2024"},
+    {"sujeto": "energías renovables", "predicado": "no causaron", "objeto": "apagón del lunes"},
+    {"sujeto": "apagón del lunes", "predicado": "se relaciona con", "objeto": "problemas en la red eléctrica"},
+    {"sujeto": "Jorge Sanz", "predicado": "dijo", "objeto": "la causa más probable fue una sobretensión en la red"},
+    {"sujeto": "Red Eléctrica de España", "predicado": "responsable de", "objeto": "mantener la tensión en la red"},
+    {"sujeto": "energía nuclear", "predicado": "no puede competir con", "objeto": "energías renovables"},
+    {"sujeto": "energías renovables", "predicado": "disminuyeron", "objeto": "emisiones de CO2 en generación eléctrica"},
+    {"sujeto": "Ministerio para la Transición Ecológica", "predicado": "no recibió", "objeto": "petición oficial para revisar el cierre de Almaraz"}
+]

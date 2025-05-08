@@ -1,0 +1,23 @@
+[
+    {"sujeto": "aceitunas", "predicado": "es", "objeto": "encurtido típico de España"},
+    {"sujeto": "aceitunas", "predicado": "puede servirse en", "objeto": "banderillas"},
+    {"sujeto": "manzanilla sevillana", "predicado": "es", "objeto": "variedad de aceituna"},
+    {"sujeto": "gordal", "predicado": "es", "objeto": "variedad de aceituna"},
+    {"sujeto": "berenjenas de Almagro", "predicado": "es", "objeto": "encurtido típico de España"},
+    {"sujeto": "berenjenas de Almagro", "predicado": "tiene origen en", "objeto": "cocina andalusí"},
+    {"sujeto": "berenjenas de Almagro", "predicado": "está amparado por", "objeto": "Indicación Geográfica Protegida"},
+    {"sujeto": "berenjenas de Almagro", "predicado": "es producto típico de", "objeto": "Campo de Calatrava"},
+    {"sujeto": "Campo de Calatrava", "predicado": "está en", "objeto": "Ciudad Real"},
+    {"sujeto": "pepinillos", "predicado": "es", "objeto": "encurtido típico de España"},
+    {"sujeto": "pepinillos", "predicado": "se usa en", "objeto": "ensaladillas del Levante"},
+    {"sujeto": "pepinillos", "predicado": "se acompaña con", "objeto": "vermut"},
+    {"sujeto": "cebolletas encurtidas", "predicado": "es", "objeto": "encurtido típico de España"},
+    {"sujeto": "cebolletas encurtidas", "predicado": "también conocida como", "objeto": "perlas"},
+    {"sujeto": "cebolletas encurtidas", "predicado": "se usa en", "objeto": "banderillas"},
+    {"sujeto": "alcaparrones", "predicado": "es", "objeto": "encurtido típico de España"},
+    {"sujeto": "alcaparrones", "predicado": "es fruto de", "objeto": "planta del alcaparro"},
+    {"sujeto": "alcaparrones", "predicado": "se usaba para", "objeto": "saborizar carnes y pescados"},
+    {"sujeto": "encurtidos", "predicado": "forma parte de", "objeto": "gastronomía española"},
+    {"sujeto": "encurtidos", "predicado": "utiliza método de conservación", "objeto": "vinagre y sal"},
+    {"sujeto": "encurtidos", "predicado": "consumo aumenta en", "objeto": "otoño"}
+]

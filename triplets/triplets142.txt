@@ -1,0 +1,77 @@
+[
+    {
+        "sujeto": "Gobierno de España",
+        "predicado": "presentó",
+        "objeto": "borrador de real decreto para la modificación de las reglas del trasvase Tajo-Segura"
+    },
+    {
+        "sujeto": "borrador de real decreto",
+        "predicado": "elimina",
+        "objeto": "Nivel 3 de la gestión del trasvase Tajo-Segura"
+    },
+    {
+        "sujeto": "Nivel 3",
+        "predicado": "fue establecido en",
+        "objeto": "2014"
+    },
+    {
+        "sujeto": "Nivel 3",
+        "predicado": "evitaba",
+        "objeto": "envíos automáticos de agua a Murcia y Alicante"
+    },
+    {
+        "sujeto": "Gobierno de España",
+        "predicado": "cede a",
+        "objeto": "intereses trasvasistas"
+    },
+    {
+        "sujeto": "borrador de real decreto",
+        "predicado": "basado en",
+        "objeto": "informe del Centro de Estudios Hidrográficos del CEDEX"
+    },
+    {
+        "sujeto": "Cátedra del Tajo UCLM-Soliss",
+        "predicado": "criticó",
+        "objeto": "propuesta de modificación de las reglas del trasvase"
+    },
+    {
+        "sujeto": "Tribunal Supremo",
+        "predicado": "dictó",
+        "objeto": "sentencias que establecen caudales ecológicos en el Tajo"
+    },
+    {
+        "sujeto": "trasvase Tajo-Segura",
+        "predicado": "transfiere",
+        "objeto": "25 m³/s desde Entrepeñas y Buendía"
+    },
+    {
+        "sujeto": "trasvase Tajo-Segura",
+        "predicado": "afecta a",
+        "objeto": "municipios ribereños de los embalses de Entrepeñas y Buendía"
+    },
+    {
+        "sujeto": "Miguel Ángel Sánchez",
+        "predicado": "es",
+        "objeto": "representante de la Asociación de municipios ribereños de los embalses de Entrepeñas y Buendía en la Comisión de explotación del trasvase Tajo-Segura"
+    },
+    {
+        "sujeto": "Comisión de Explotación del Trasvase Tajo-Segura",
+        "predicado": "aprobará",
+        "objeto": "borrador de real decreto el 8 de mayo"
+    },
+    {
+        "sujeto": "borrador de real decreto",
+        "predicado": "establece",
+        "objeto": "modelo de gestión con embalses en raya de 400 hm³"
+    },
+    {
+        "sujeto": "modelo de gestión de cabecera del Tajo",
+        "predicado": "retrocede a",
+        "objeto": "década de los noventa"
+    },
+    {
+        "sujeto": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+        "predicado": "mantiene",
+        "objeto": "actual sistema de trasvase Tajo-Segura"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "sujeto": "Artículo Un Papa de los de antes",
+        "predicado": "fue publicado en",
+        "objeto": "elDiario.es"
+    },
+    {
+        "sujeto": "Artículo Un Papa de los de antes",
+        "predicado": "tiene URL",
+        "objeto": "https://www.eldiario.es/opinion/papa_131_12235963.html"
+    },
+    {
+        "sujeto": "Artículo Un Papa de los de antes",
+        "predicado": "fecha de publicación",
+        "objeto": "2025-04-21T22:10:04+02:00"
+    }
+]

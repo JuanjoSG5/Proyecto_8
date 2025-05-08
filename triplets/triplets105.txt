@@ -1,0 +1,19 @@
+[
+    {"sujeto": "nueva normativa de equipajes de mano", "predicado": "entró en vigor", "objeto": "1 de septiembre de 2024"},
+    {"sujeto": "nueva normativa de equipajes de mano", "predicado": "es parte de", "objeto": "Reglamento de Seguridad de la Aviación de la UE"},
+    {"sujeto": "nueva normativa de equipajes de mano", "predicado": "prohíbe", "objeto": "uso del escáner C3"},
+    {"sujeto": "escáner C3", "predicado": "permitía", "objeto": "subir líquidos sin restricción"},
+    {"sujeto": "escáner C3", "predicado": "permitía", "objeto": "no separar dispositivos ni líquidos"},
+    {"sujeto": "Comisión Europea", "predicado": "prohibió", "objeto": "uso del escáner C3"},
+    {"sujeto": "escáner C3", "predicado": "no cumple", "objeto": "estándares de seguridad del ACI"},
+    {"sujeto": "nueva normativa de equipajes de mano", "predicado": "impone", "objeto": "limitación de líquidos a envases de 100 ml"},
+    {"sujeto": "líquidos", "predicado": "deben colocarse en", "objeto": "bolsas transparentes de 1 litro"},
+    {"sujeto": "líquidos", "predicado": "deben presentarse en", "objeto": "bandeja independiente en el control de seguridad"},
+    {"sujeto": "Categorías de líquidos afectados", "predicado": "incluyen", "objeto": "gel, champú, colonia, lacas, espumas de pelo, pastas de dientes, aerosoles, cremas, alimentos no infantiles"},
+    {"sujeto": "Adolfo Suárez Madrid-Barajas", "predicado": "contaba con", "objeto": "escáneres C3"},
+    {"sujeto": "El Prat de Barcelona", "predicado": "contaba con", "objeto": "escáneres C3"},
+    {"sujeto": "aeropuertos con C3", "predicado": "tendrán que volver a", "objeto": "uso de rayos X"},
+    {"sujeto": "aeropuertos con C3", "predicado": "deben instar a", "objeto": "retiro de líquidos y dispositivos electrónicos en el control"},
+    {"sujeto": "todos los países de la UE", "predicado": "deben cumplir", "objeto": "nueva normativa de equipajes de mano"},
+    {"sujeto": "líquidos en equipaje de mano", "predicado": "están regulados por", "objeto": "Reglamento 2015/1998 de la CE"}
+]

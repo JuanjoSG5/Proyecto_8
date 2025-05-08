@@ -1,0 +1,21 @@
+[
+    {"sujeto": "Amaxofobia", "predicado": "es un trastorno caracterizado por", "objeto": "miedo intenso y patológico a conducir"},
+    {"sujeto": "Amaxofobia", "predicado": "afecta a", "objeto": "cerca del 30% de los conductores en Europa"},
+    {"sujeto": "Fundación CEA", "predicado": "realizó", "objeto": "estudio sobre la amaxofobia"},
+    {"sujeto": "Cristina Rojas", "predicado": "es", "objeto": "profesora de formación vial"},
+    {"sujeto": "Cristina Rojas", "predicado": "está especializada en", "objeto": "miedo a conducir"},
+    {"sujeto": "Jorge Carrión Iniesta", "predicado": "es", "objeto": "psicólogo especialista en tratamiento de la amaxofobia"},
+    {"sujeto": "Amaxofobia", "predicado": "puede provocar", "objeto": "ansiedad intensa, nerviosismo o pánico"},
+    {"sujeto": "Amaxofobia", "predicado": "puede provocar", "objeto": "evitación de situaciones de conducción"},
+    {"sujeto": "Tratamiento de la amaxofobia", "predicado": "puede incluir", "objeto": "Terapia Cognitivo Conductual"},
+    {"sujeto": "Tratamiento de la amaxofobia", "predicado": "puede incluir", "objeto": "terapia EMDR"},
+    {"sujeto": "Terapia Cognitivo Conductual", "predicado": "es eficaz para", "objeto": "superar la amaxofobia"},
+    {"sujeto": "Terapia EMDR", "predicado": "es eficaz para", "objeto": "superar la amaxofobia"},
+    {"sujeto": "Cristina Rojas", "predicado": "afirma", "objeto": "se puede llegar a conducir con normalidad superando la amaxofobia"},
+    {"sujeto": "Jorge Carrión Iniesta", "predicado": "afirma", "objeto": "la amaxofobia puede superarse con tratamiento adecuado"},
+    {"sujeto": "Factores de riesgo de amaxofobia", "predicado": "incluyen", "objeto": "experiencias traumáticas pasadas"},
+    {"sujeto": "Factores de riesgo de amaxofobia", "predicado": "incluyen", "objeto": "crisis de ansiedad o pánico al conducir"},
+    {"sujeto": "Factores de riesgo de amaxofobia", "predicado": "incluyen", "objeto": "baja autoestima y vulnerabilidad psicológica"},
+    {"sujeto": "Personas con amaxofobia", "predicado": "pueden evitar", "objeto": "autopistas, atascos, conducción nocturna, o meteorología adversa"},
+    {"sujeto": "Formación vial", "predicado": "proporciona", "objeto": "confianza y herramientas para afrontar el miedo a conducir"}
+]

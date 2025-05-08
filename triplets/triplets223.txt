@@ -1,0 +1,87 @@
+[
+    {
+        "sujeto": "OMS",
+        "predicado": "impulsó",
+        "objeto": "tratado mundial contra pandemias"
+    },
+    {
+        "sujeto": "Más de 190 países",
+        "predicado": "aprobaron",
+        "objeto": "tratado mundial contra pandemias"
+    },
+    {
+        "sujeto": "Gobierno de España",
+        "predicado": "reinició",
+        "objeto": "trámite de la Agencia Estatal de Salud Pública"
+    },
+    {
+        "sujeto": "PP",
+        "predicado": "bloqueó",
+        "objeto": "trámite de la Agencia Estatal de Salud Pública"
+    },
+    {
+        "sujeto": "Junts",
+        "predicado": "bloqueó",
+        "objeto": "trámite de la Agencia Estatal de Salud Pública"
+    },
+    {
+        "sujeto": "Trump",
+        "predicado": "impulsó",
+        "objeto": "política de recortes y aranceles"
+    },
+    {
+        "sujeto": "política de Trump",
+        "predicado": "puede borrar",
+        "objeto": "progreso en la lucha contra el cáncer"
+    },
+    {
+        "sujeto": "nueva ley de medicamentos",
+        "predicado": "impulsa",
+        "objeto": "uso de genéricos"
+    },
+    {
+        "sujeto": "servicio de Urgencias en Vitoria",
+        "predicado": "es",
+        "objeto": "único para los dos hospitales"
+    },
+    {
+        "sujeto": "servicio de Urgencias en Vitoria",
+        "predicado": "cuenta con",
+        "objeto": "352 profesionales"
+    },
+    {
+        "sujeto": "pacientes extremeños",
+        "predicado": "pusieron 35% más de",
+        "objeto": "reclamaciones al SES"
+    },
+    {
+        "sujeto": "SES",
+        "predicado": "recibió",
+        "objeto": "reclamaciones por atención de especialistas"
+    },
+    {
+        "sujeto": "Castilla-La Mancha",
+        "predicado": "tiene",
+        "objeto": "62% de no participación en cribado de cáncer de colon"
+    },
+    {
+        "sujeto": "190.000 vascos en edad de riesgo",
+        "predicado": "no utilizan",
+        "objeto": "cribado de cáncer colorrectal"
+    },
+    {
+        "sujeto": "Mónica García",
+        "predicado": "presiona",
+        "objeto": "destinar parte del gasto en defensa a cuestiones sanitarias"
+    },
+    {
+        "sujeto": "grandes municipios de Castilla-La Mancha",
+        "predicado": "pueden optar a",
+        "objeto": "ayudas para programas contra conductas adictivas"
+    },
+    {
+        "sujeto": "Pedro Sánchez",
+        "predicado": "criticó",
+        "objeto": "PP por votar contra Agencia de Salud Pública"
+    }
+]

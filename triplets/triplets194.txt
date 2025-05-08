@@ -1,0 +1,82 @@
+[
+    {
+        "sujeto": "Jueza de la DANA",
+        "predicado": "rechazó",
+        "objeto": "pedir al TSJ-CV la imputación de Carlos Mazón"
+    },
+    {
+        "sujeto": "Carlos Mazón",
+        "predicado": "es",
+        "objeto": "president de la Generalitat Valenciana"
+    },
+    {
+        "sujeto": "Carlos Mazón",
+        "predicado": "es",
+        "objeto": "aforado"
+    },
+    {
+        "sujeto": "Juzgado de Instrucción n.º 3 de Catarroja",
+        "predicado": "centraliza",
+        "objeto": "investigación del caso DANA"
+    },
+    {
+        "sujeto": "Jueza de la DANA",
+        "predicado": "ofreció",
+        "objeto": "posibilidad de declarar como investigado a Carlos Mazón"
+    },
+    {
+        "sujeto": "Carlos Mazón",
+        "predicado": "declinó",
+        "objeto": "declarar como investigado"
+    },
+    {
+        "sujeto": "Rubén Gisbert",
+        "predicado": "actúa como",
+        "objeto": "abogado de la acusación particular en el caso DANA"
+    },
+    {
+        "sujeto": "Salomé Pradas",
+        "predicado": "es",
+        "objeto": "exconsellera e investigada en el caso DANA"
+    },
+    {
+        "sujeto": "Emilio Argüeso",
+        "predicado": "es",
+        "objeto": "exsecretario autonómico de Emergencias e investigado en el caso DANA"
+    },
+    {
+        "sujeto": "Salomé Pradas",
+        "predicado": "tenía",
+        "objeto": "mando único de la emergencia durante la DANA"
+    },
+    {
+        "sujeto": "Pilar Bernabé",
+        "predicado": "es",
+        "objeto": "delegada del Gobierno"
+    },
+    {
+        "sujeto": "Jueza de la DANA",
+        "predicado": "rechazó",
+        "objeto": "imputación de Pilar Bernabé"
+    },
+    {
+        "sujeto": "Sala de lo Penal del TSJ-CV",
+        "predicado": "remitió",
+        "objeto": "investigación del caso DANA a juzgado de instrucción"
+    },
+    {
+        "sujeto": "Sala de lo Penal del TSJ-CV",
+        "predicado": "consideró",
+        "objeto": "falta de indicios suficientes contra Carlos Mazón"
+    },
+    {
+        "sujeto": "Caso DANA",
+        "predicado": "investiga",
+        "objeto": "fallecimientos, desapariciones y lesiones del 29 de octubre por inacción institucional"
+    },
+    {
+        "sujeto": "Emergencia nacional",
+        "predicado": "no era necesaria para",
+        "objeto": "alertar a la población y adoptar medidas de autoprotección según la jueza"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {"sujeto": "Fundación Neus Català", "predicado": "puso a disposición", "objeto": "archivo histórico para docentes"},
+    {"sujeto": "Fundación Neus Català", "predicado": "presentó", "objeto": "Proyecto Abril"},
+    {"sujeto": "Proyecto Abril", "predicado": "es", "objeto": "web con recursos pedagógicos antifascistas"},
+    {"sujeto": "Proyecto Abril", "predicado": "tiene como objetivo", "objeto": "combatir discursos de odio entre jóvenes"},
+    {"sujeto": "Proyecto Abril", "predicado": "dirigido a", "objeto": "jóvenes de 12 a 18 años"},
+    {"sujeto": "Proyecto Abril", "predicado": "dirigido a", "objeto": "comunidad educativa"},
+    {"sujeto": "Fundación Neus Català", "predicado": "fue fundada en", "objeto": "2023"},
+    {"sujeto": "Fundación Neus Català", "predicado": "fue impulsada por", "objeto": "Comunistes de Catalunya"},
+    {"sujeto": "Fundación Neus Català", "predicado": "fue impulsada por", "objeto": "Esquerra Unida i Alternativa"},
+    {"sujeto": "Fundación Neus Català", "predicado": "preserva el legado de", "objeto": "Neus Català"},
+    {"sujeto": "Neus Català", "predicado": "fue", "objeto": "superviviente del campo de concentración de Ravensbrück"},
+    {"sujeto": "Neus Català", "predicado": "murió en", "objeto": "2019"},
+    {"sujeto": "Proyecto Abril", "predicado": "cuenta con el apoyo de", "objeto": "Generalitat de Catalunya"},
+    {"sujeto": "Proyecto Abril", "predicado": "cuenta con el apoyo de", "objeto": "Ayuntamiento de Barcelona"},
+    {"sujeto": "Proyecto Abril", "predicado": "cuenta con el apoyo de", "objeto": "Diputación de Barcelona"},
+    {"sujeto": "Proyecto Abril", "predicado": "cuenta con el apoyo de", "objeto": "Memorial Democràtic"},
+    {"sujeto": "Fundación Neus Català", "predicado": "contempla la creación de", "objeto": "Programa de Educación Democrática"},
+    {"sujeto": "Programa de Educación Democrática", "predicado": "alineado con", "objeto": "nuevo currículum de educación básica"}
+]

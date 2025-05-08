@@ -1,0 +1,19 @@
+[
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "se celebra en", "objeto": "Lavapiés"},
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "es parte de", "objeto": "Fiestas de San Isidro 2025"},
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "está declarada", "objeto": "Bien de Interés Cultural"},
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "se celebra", "objeto": "4 de mayo de 2025"},
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "conmemora", "objeto": "llegada de la primavera"},
+    {"sujeto": "Grupo Arrabel", "predicado": "actúa en", "objeto": "Fiesta de los Mayos-La Maya"},
+    {"sujeto": "Escuela La Dulzaina de Aluche", "predicado": "participa en", "objeto": "Fiesta de los Mayos-La Maya"},
+    {"sujeto": "Baile del Rondón", "predicado": "se baila en", "objeto": "Fiesta de los Mayos-La Maya"},
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "incluye", "objeto": "reparto de rosquillas"},
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "incluye", "objeto": "vinos de la Tierra de Madrid"},
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "incluye", "objeto": "flores"},
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "incluye", "objeto": "rondas y cantos de Mayos"},
+    {"sujeto": "Orquesta Juvenil Dalanota", "predicado": "ofrece concierto en", "objeto": "Plaza de Lavapiés"},
+    {"sujeto": "Coro de Voces Graves de Madrid", "predicado": "actúa en", "objeto": "Iglesia de San Lorenzo"},
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "culmina con", "objeto": "ofrenda floral en Iglesia de San Lorenzo"},
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "tiene origen en", "objeto": "siglo XVIII"},
+    {"sujeto": "Fiesta de los Mayos-La Maya", "predicado": "ha sido reconocida con", "objeto": "Premio Nacional de Tradiciones Populares"}
+]

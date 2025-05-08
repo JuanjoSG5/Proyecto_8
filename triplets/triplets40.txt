@@ -1,0 +1,17 @@
+[
+    {"sujeto": "Penny Black", "predicado": "es considerado", "objeto": "el primer sello postal de la historia"},
+    {"sujeto": "Penny Black", "predicado": "se utilizó por primera vez", "objeto": "6 de mayo de 1840"},
+    {"sujeto": "Penny Black", "predicado": "fue creado en", "objeto": "Inglaterra"},
+    {"sujeto": "Penny Black", "predicado": "representa", "objeto": "la imagen de la Reina Victoria"},
+    {"sujeto": "Sir Rowland Hill", "predicado": "propuso", "objeto": "el sistema de franqueo con sello adhesivo"},
+    {"sujeto": "Museo Postal Británico", "predicado": "posee", "objeto": "una copia del Penny Black de la primera placa A-I"},
+    {"sujeto": "Robert Wallace", "predicado": "fue", "objeto": "persona relevante en la reforma del servicio postal británico"},
+    {"sujeto": "Zúrich", "predicado": "emitió", "objeto": "el segundo sello postal del mundo"},
+    {"sujeto": "Zúrich", "predicado": "emitió sello postal en", "objeto": "marzo de 1843"},
+    {"sujeto": "Brasil", "predicado": "fue", "objeto": "primer país de América en emitir sello postal"},
+    {"sujeto": "Brasil", "predicado": "emitió", "objeto": "serie de sellos 'ojos de buey'"},
+    {"sujeto": "serie 'ojos de buey'", "predicado": "se emitió", "objeto": "julio de 1843"},
+    {"sujeto": "España", "predicado": "emitió su primer sello", "objeto": "1 de enero de 1850"},
+    {"sujeto": "primer sello español", "predicado": "presenta", "objeto": "retrato de perfil de la Reina Isabel II"},
+    {"sujeto": "6 de mayo", "predicado": "es", "objeto": "Día Mundial de la Filatelia"}
+]

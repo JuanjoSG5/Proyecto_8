@@ -1,0 +1,19 @@
+[
+    {"sujeto": "Clínicas Dorsia", "predicado": "ofrece", "objeto": "experiencias de belleza para el Día de la Madre"},
+    {"sujeto": "Clínicas Dorsia", "predicado": "diseñó", "objeto": "packs especiales de tratamientos faciales"},
+    {"sujeto": "Clínicas Dorsia", "predicado": "diseñó", "objeto": "packs especiales de tratamientos corporales"},
+    {"sujeto": "Limpieza facial con microdermoabrasión", "predicado": "es un", "objeto": "tratamiento facial disponible en Clínicas Dorsia"},
+    {"sujeto": "Limpieza facial con microdermoabrasión y radiofrecuencia facial", "predicado": "es un", "objeto": "tratamiento facial disponible en Clínicas Dorsia"},
+    {"sujeto": "Dermoabrasión + Dermapen", "predicado": "estimula", "objeto": "producción de colágeno"},
+    {"sujeto": "Exosomas con Dermapen", "predicado": "es un", "objeto": "tratamiento de medicina regenerativa"},
+    {"sujeto": "Exosomas con Dermapen", "predicado": "mejora", "objeto": "calidad de la piel"},
+    {"sujeto": "Carboxiterapia", "predicado": "es un", "objeto": "tratamiento corporal disponible en Clínicas Dorsia"},
+    {"sujeto": "Electroestimulación Physiosculpt", "predicado": "es un", "objeto": "tratamiento corporal para activar la musculatura"},
+    {"sujeto": "Tratamientos anticelulíticos con aparatología de última generación", "predicado": "están disponibles en", "objeto": "Clínicas Dorsia"},
+    {"sujeto": "Sesiones de depilación láser", "predicado": "están disponibles en", "objeto": "Clínicas Dorsia"},
+    {"sujeto": "Dorsia Prime", "predicado": "es", "objeto": "suscripción de medicina y cirugía estética"},
+    {"sujeto": "Dorsia Prime", "predicado": "cuesta", "objeto": "50€/mes"},
+    {"sujeto": "Dorsia Prime", "predicado": "ofrece", "objeto": "ventajas exclusivas y tratamientos personalizados"},
+    {"sujeto": "Clínicas Dorsia", "predicado": "lanza promociones", "objeto": "hasta el 5 de mayo"},
+    {"sujeto": "Clínicas Dorsia", "predicado": "publicó información sobre regalos de belleza", "objeto": "con motivo del Día de la Madre"}
+]

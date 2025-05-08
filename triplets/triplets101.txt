@@ -1,0 +1,23 @@
+[
+    {"sujeto": "El juego del calamar", "predicado": "tiene", "objeto": "tercera temporada"},
+    {"sujeto": "El juego del calamar", "predicado": "está disponible en", "objeto": "Netflix"},
+    {"sujeto": "Lee Joo-Sil", "predicado": "actuó en", "objeto": "El juego del calamar"},
+    {"sujeto": "Lee Joo-Sil", "predicado": "murió a la edad de", "objeto": "81 años"},
+    {"sujeto": "Netflix", "predicado": "anunció", "objeto": "El juego del calamar 3"},
+    {"sujeto": "El juego del calamar", "predicado": "tiene personaje", "objeto": "jugadora trans"},
+    {"sujeto": "El juego del calamar", "predicado": "tiene temporada", "objeto": "temporada 2"},
+    {"sujeto": "El juego del calamar", "predicado": "fue superado en España por", "objeto": "Machos alfa"},
+    {"sujeto": "El juego del calamar", "predicado": "tiene villano llamado", "objeto": "Thanos"},
+    {"sujeto": "El juego del calamar", "predicado": "tendrá", "objeto": "spin-off"},
+    {"sujeto": "Netflix", "predicado": "cometió error con", "objeto": "fecha de estreno de El juego del calamar 3"},
+    {"sujeto": "El juego del calamar 2", "predicado": "fue", "objeto": "serie más vista en su semana de estreno"},
+    {"sujeto": "El juego del calamar", "predicado": "concibió", "objeto": "temporadas 2 y 3 como una sola"},
+    {"sujeto": "El juego del calamar", "predicado": "tiene temática", "objeto": "venganza"},
+    {"sujeto": "Ibai Llanos", "predicado": "colaboró con", "objeto": "Netflix"},
+    {"sujeto": "Ibai Llanos", "predicado": "hizo versión de", "objeto": "El juego del calamar"},
+    {"sujeto": "Ibai Llanos", "predicado": "transmitió en", "objeto": "Twitch"},
+    {"sujeto": "El juego del calamar", "predicado": "tendrá videojuego llamado", "objeto": "Frenesí"},
+    {"sujeto": "Frenesí", "predicado": "es de estilo", "objeto": "battle royale"},
+    {"sujeto": "Netflix", "predicado": "fue demandada por", "objeto": "plagio con El juego del calamar"},
+    {"sujeto": "Netflix", "predicado": "se defendió", "objeto": "alegando falta de fundamento"}
+]

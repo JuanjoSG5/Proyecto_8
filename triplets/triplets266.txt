@@ -1,0 +1,23 @@
+[
+    {"sujeto": "Jesús Martín Blanco", "predicado": "ocupa el cargo de", "objeto": "Director General de Derechos de las Personas con Discapacidad"},
+    {"sujeto": "Jesús Martín Blanco", "predicado": "trabaja para", "objeto": "Ministerio de Derechos Sociales, Consumo y Agenda 2030"},
+    {"sujeto": "Josefa Torres", "predicado": "ocupa el cargo de", "objeto": "Secretaria de la Comisión Laboral del CERMI"},
+    {"sujeto": "Josefa Torres", "predicado": "ocupa el cargo de", "objeto": "Directora de FEACEM"},
+    {"sujeto": "Zita Martiarena", "predicado": "ocupa el cargo de", "objeto": "Responsable de la Oficina de Discapacidad de Acciona"},
+    {"sujeto": "Instituto Nacional de Estadística", "predicado": "publicó", "objeto": "El Empleo de Personas con Discapacidad (EPD)"},
+    {"sujeto": "El Empleo de Personas con Discapacidad (EPD)", "predicado": "se refiere a", "objeto": "empleo de personas con discapacidad en España"},
+    {"sujeto": "El Empleo de Personas con Discapacidad (EPD)", "predicado": "contiene datos de", "objeto": "2022"},
+    {"sujeto": "España", "predicado": "tenía", "objeto": "540.000 personas con discapacidad empleadas en 2022"},
+    {"sujeto": "Ley General de Discapacidad", "predicado": "fue aprobada en", "objeto": "2013"},
+    {"sujeto": "Ley General de Discapacidad", "predicado": "establece", "objeto": "2% de trabajadores con discapacidad en empresas de más de 50 trabajadores"},
+    {"sujeto": "Ley General de Discapacidad", "predicado": "establece", "objeto": "7% de trabajadores con discapacidad en el empleo público"},
+    {"sujeto": "CERMI", "predicado": "propone", "objeto": "actualización de la Ley General de Discapacidad"},
+    {"sujeto": "CERMI", "predicado": "propone", "objeto": "legislación integral de activación laboral para personas con discapacidad"},
+    {"sujeto": "Libro Blanco de Empleo y Discapacidad", "predicado": "contiene", "objeto": "recomendaciones para la activación laboral de personas con discapacidad"},
+    {"sujeto": "elDiario.es", "predicado": "organizó", "objeto": "evento 'Integración laboral y discapacidad: ¿estamos haciendo lo suficiente?'"},
+    {"sujeto": "Acciona", "predicado": "colaboró en", "objeto": "evento 'Integración laboral y discapacidad: ¿estamos haciendo lo suficiente?'"},
+    {"sujeto": "David Noriega", "predicado": "moderó", "objeto": "evento 'Integración laboral y discapacidad: ¿estamos haciendo lo suficiente?'"},
+    {"sujeto": "Jesús Martín Blanco", "predicado": "participó en", "objeto": "evento 'Integración laboral y discapacidad: ¿estamos haciendo lo suficiente?'"},
+    {"sujeto": "Josefa Torres", "predicado": "participó en", "objeto": "evento 'Integración laboral y discapacidad: ¿estamos haciendo lo suficiente?'"},
+    {"sujeto": "Zita Martiarena", "predicado": "participó en", "objeto": "evento 'Integración laboral y discapacidad: ¿estamos haciendo lo suficiente?'"}
+]

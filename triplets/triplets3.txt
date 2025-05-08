@@ -1,0 +1,18 @@
+[
+    {"sujeto": "Río Manzanares", "predicado": "causó", "objeto": "inundación en Madrid en 1499"},
+    {"sujeto": "Concejo de Madrid", "predicado": "solicitó licencia a", "objeto": "Reyes Católicos"},
+    {"sujeto": "Río Manzanares", "predicado": "causó", "objeto": "riada en Madrid en 1884"},
+    {"sujeto": "Río Manzanares", "predicado": "causó", "objeto": "inundación de la capilla de San Antonio de la Florida en 1892"},
+    {"sujeto": "Río Manzanares", "predicado": "causó", "objeto": "riada en Madrid en 1910"},
+    {"sujeto": "Riada de 1910", "predicado": "destruyó", "objeto": "Puente de madera Puente de Garrido"},
+    {"sujeto": "Riada de 1910", "predicado": "afectó especialmente a", "objeto": "lavanderas"},
+    {"sujeto": "Río Manzanares", "predicado": "causó", "objeto": "inundación en Madrid en 1947"},
+    {"sujeto": "Borrasca Martinho", "predicado": "causó", "objeto": "crecida del río Manzanares en marzo de 2025"},
+    {"sujeto": "Río Manzanares", "predicado": "causó", "objeto": "inundación en la M-30 en 1995"},
+    {"sujeto": "Canalización del río Manzanares", "predicado": "comenzó en", "objeto": "principios del siglo XX"},
+    {"sujeto": "Canalización del río Manzanares", "predicado": "permitió", "objeto": "construcción de edificios en los alrededores"},
+    {"sujeto": "Complejo deportivo La Isla", "predicado": "fue derruido en", "objeto": "años 40"},
+    {"sujeto": "Avenida del Manzanares", "predicado": "fue afectada por", "objeto": "crecida de 1966"},
+    {"sujeto": "Crecidas del río Manzanares", "predicado": "afectaron a", "objeto": "infraestructura urbana de Madrid"},
+    {"sujeto": "Crecidas del río Manzanares", "predicado": "afectaron a", "objeto": "vida cotidiana de Madrid"}
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "sujeto": "Asturias",
+        "predicado": "ganó",
+        "objeto": "809 habitantes en el primer trimestre de 2025"
+    },
+    {
+        "sujeto": "Población de Asturias",
+        "predicado": "ascendió a",
+        "objeto": "1.014.921 habitantes a 1 de abril de 2025"
+    },
+    {
+        "sujeto": "Instituto Nacional de Estadística",
+        "predicado": "publicó",
+        "objeto": "datos provisionales de población en el primer trimestre de 2025"
+    },
+    {
+        "sujeto": "Estadística Continua de Población",
+        "predicado": "indica",
+        "objeto": "tendencia al alza de la población en Asturias"
+    },
+    {
+        "sujeto": "Población de Asturias",
+        "predicado": "aumentó en",
+        "objeto": "10.368 personas entre el 1 de abril de 2022 y el 1 de abril de 2025"
+    },
+    {
+        "sujeto": "Población de Asturias",
+        "predicado": "creció un",
+        "objeto": "1,03% entre abril de 2022 y abril de 2025"
+    },
+    {
+        "sujeto": "Población de España",
+        "predicado": "aumentó en",
+        "objeto": "75.865 personas en el primer trimestre de 2025"
+    },
+    {
+        "sujeto": "Población de España",
+        "predicado": "ascendió a",
+        "objeto": "49.153.849 personas en el primer trimestre de 2025"
+    },
+    {
+        "sujeto": "Extremadura",
+        "predicado": "no incrementó",
+        "objeto": "su población en el primer trimestre de 2025"
+    },
+    {
+        "sujeto": "Baleares",
+        "predicado": "no incrementó",
+        "objeto": "su población en el primer trimestre de 2025"
+    },
+    {
+        "sujeto": "Población de España",
+        "predicado": "aumentó en",
+        "objeto": "429.977 personas en el último año"
+    }
+]

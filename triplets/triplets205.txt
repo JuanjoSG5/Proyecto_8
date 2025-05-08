@@ -1,0 +1,22 @@
+[
+    {"sujeto": "Gobierno de España", "predicado": "impulsó", "objeto": "proyecto de ley para reducir la jornada laboral a 37,5 horas semanales"},
+    {"sujeto": "proyecto de ley para reducir la jornada laboral", "predicado": "aprobado en", "objeto": "Consejo de Ministros"},
+    {"sujeto": "proyecto de ley para reducir la jornada laboral", "predicado": "remitido a", "objeto": "Congreso de los Diputados"},
+    {"sujeto": "proyecto de ley para reducir la jornada laboral", "predicado": "incluye", "objeto": "reducción de jornada máxima a 37,5 horas sin reducción salarial"},
+    {"sujeto": "proyecto de ley para reducir la jornada laboral", "predicado": "incluye", "objeto": "obligatoriedad de registro digital de jornada"},
+    {"sujeto": "proyecto de ley para reducir la jornada laboral", "predicado": "incluye", "objeto": "derecho a la desconexión digital"},
+    {"sujeto": "Gobierno de España", "predicado": "dio plazo hasta", "objeto": "31 de diciembre de 2025 para adaptación empresarial"},
+    {"sujeto": "Yolanda Díaz", "predicado": "afirmó", "objeto": "Gobierno ha cumplido su palabra con la reducción de la jornada"},
+    {"sujeto": "Ministerio de Trabajo", "predicado": "acordó", "objeto": "individualización de sanciones por incumplimiento de registro horario"},
+    {"sujeto": "nueva jornada laboral de 37,5 horas", "predicado": "afecta a", "objeto": "12,5 millones de personas"},
+    {"sujeto": "nueva jornada laboral de 37,5 horas", "predicado": "afecta a", "objeto": "10,5 millones de trabajadores a tiempo completo"},
+    {"sujeto": "nueva jornada laboral de 37,5 horas", "predicado": "afecta a", "objeto": "2 millones de trabajadores a tiempo parcial"},
+    {"sujeto": "Catalunya", "predicado": "es", "objeto": "comunidad con más personas afectadas por la medida"},
+    {"sujeto": "registro horario", "predicado": "debe ser", "objeto": "digital"},
+    {"sujeto": "Inspección de Trabajo", "predicado": "tendrá acceso remoto a", "objeto": "registro de jornada"},
+    {"sujeto": "proyecto de ley", "predicado": "rechazado por", "objeto": "patronales de empresarios"},
+    {"sujeto": "proyecto de ley", "predicado": "pactado con", "objeto": "sindicatos"},
+    {"sujeto": "Junts", "predicado": "presentó", "objeto": "enmienda a la totalidad al proyecto de ley"},
+    {"sujeto": "Yolanda Díaz", "predicado": "es", "objeto": "vicepresidenta segunda y ministra de Trabajo"},
+    {"sujeto": "Pilar Alegría", "predicado": "es", "objeto": "portavoz del Gobierno"}
+]

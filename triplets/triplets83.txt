@@ -1,0 +1,117 @@
+[
+    {
+        "sujeto": "El legado de Iñaki",
+        "predicado": "es una columna de opinión en",
+        "objeto": "elDiario.es"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "es autor de",
+        "objeto": "El legado de Iñaki"
+    },
+    {
+        "sujeto": "El legado de Iñaki",
+        "predicado": "forma parte de la sección",
+        "objeto": "Campobase"
+    },
+    {
+        "sujeto": "Campobase",
+        "predicado": "es una sección temática de",
+        "objeto": "elDiario.es"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "El espejo de Anatoli"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "El bueno, el feo y el malo"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "Aguas turbulentas (El descerebrado)"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "Los federales"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "El Nota"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "Carta a Ricardo"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "La pastilla, camarada"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "El gusano"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "Mis plegarias"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "Fausto"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "El apremio"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "¿Cómo están ustedes?"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "El cornudo"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "Es sólo una canción"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "Mister Proper"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "El patriota"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "Freddie"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "Los Alpes basura"
+    },
+    {
+        "sujeto": "Iñaki Ochoa de Olza",
+        "predicado": "publicó artículo",
+        "objeto": "La prostituta"
+    }
+]

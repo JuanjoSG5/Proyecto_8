@@ -1,0 +1,47 @@
+[
+    {
+        "sujeto": "Guillermo Hormigo",
+        "predicado": "nació en",
+        "objeto": "1997"
+    },
+    {
+        "sujeto": "Guillermo Hormigo",
+        "predicado": "es originario de",
+        "objeto": "Algeciras (Cádiz)"
+    },
+    {
+        "sujeto": "Guillermo Hormigo",
+        "predicado": "tiene título académico",
+        "objeto": "Grado en Periodismo y Comunicación Audiovisual"
+    },
+    {
+        "sujeto": "Guillermo Hormigo",
+        "predicado": "tiene título académico",
+        "objeto": "Máster en Teoría y Crítica de la Cultura"
+    },
+    {
+        "sujeto": "Guillermo Hormigo",
+        "predicado": "ha trabajado en",
+        "objeto": "eCartelera"
+    },
+    {
+        "sujeto": "Guillermo Hormigo",
+        "predicado": "ha trabajado en",
+        "objeto": "infoLibre"
+    },
+    {
+        "sujeto": "Guillermo Hormigo",
+        "predicado": "colabora con",
+        "objeto": "elDiario.es"
+    },
+    {
+        "sujeto": "Guillermo Hormigo",
+        "predicado": "colabora con",
+        "objeto": "Somos Madrid"
+    },
+    {
+        "sujeto": "Guillermo Hormigo",
+        "predicado": "colabora con",
+        "objeto": "Hoy Se Sale"
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {"sujeto": "elDiario.es", "predicado": "ofrece sección", "objeto": "Juegos"},
+    {"sujeto": "Juegos", "predicado": "incluye", "objeto": "Crucigramas"},
+    {"sujeto": "Crucigramas", "predicado": "forma parte de", "objeto": "Juegos"},
+    {"sujeto": "Crucigramas", "predicado": "están disponibles en", "objeto": "https://www.eldiario.es/juegos/game/crossword/"},
+    {"sujeto": "elDiario.es", "predicado": "es fuente de", "objeto": "https://www.eldiario.es/juegos/game/crossword/"}
+]

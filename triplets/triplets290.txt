@@ -1,0 +1,127 @@
+[
+    {
+        "sujeto": "Govern de Illa",
+        "predicado": "recuperó",
+        "objeto": "actos religiosos para Sant Jordi"
+    },
+    {
+        "sujeto": "Govern de Illa",
+        "predicado": "dará protagonismo a",
+        "objeto": "la misa"
+    },
+    {
+        "sujeto": "Zapatero y Santos Cerdán",
+        "predicado": "calman a",
+        "objeto": "Junts"
+    },
+    {
+        "sujeto": "Vox",
+        "predicado": "aupó a",
+        "objeto": "Jordi de la Fuente"
+    },
+    {
+        "sujeto": "Jordi de la Fuente",
+        "predicado": "es",
+        "objeto": "líder del sindicato Solidaridad"
+    },
+    {
+        "sujeto": "Junts",
+        "predicado": "recupera",
+        "objeto": "business friendly"
+    },
+    {
+        "sujeto": "PSOE",
+        "predicado": "ayudó a",
+        "objeto": "Junts a recuperar el business friendly"
+    },
+    {
+        "sujeto": "Gobierno y Generalitat",
+        "predicado": "pactaron",
+        "objeto": "acuerdos en Rodalies, quita de deuda y sintonía fiscal"
+    },
+    {
+        "sujeto": "Pujol",
+        "predicado": "rechazó",
+        "objeto": "posición de Junts en Ripoll"
+    },
+    {
+        "sujeto": "Pujol",
+        "predicado": "defendió",
+        "objeto": "mantener exclusión de Aliança Catalana"
+    },
+    {
+        "sujeto": "Illa y Junqueras",
+        "predicado": "se reunieron",
+        "objeto": "en la Generalitat"
+    },
+    {
+        "sujeto": "Junts",
+        "predicado": "descarta",
+        "objeto": "moción de censura contra Orriols"
+    },
+    {
+        "sujeto": "Junts",
+        "predicado": "reiteró su rechazo a",
+        "objeto": "moción de censura a Sánchez"
+    },
+    {
+        "sujeto": "Junqueras",
+        "predicado": "emplazó a",
+        "objeto": "PSC y PSOE"
+    },
+    {
+        "sujeto": "Junqueras",
+        "predicado": "pidió",
+        "objeto": "cumplimiento de acuerdos antes de negociar presupuestos"
+    },
+    {
+        "sujeto": "Òmnium",
+        "predicado": "instó al",
+        "objeto": "soberanismo a cambiar estrategia"
+    },
+    {
+        "sujeto": "Jordi Turull",
+        "predicado": "criticó",
+        "objeto": "discurso de miedo con Sánchez, PP y Vox"
+    },
+    {
+        "sujeto": "Lluís Mijoler",
+        "predicado": "cedió alcaldía a",
+        "objeto": "Alba Bou"
+    },
+    {
+        "sujeto": "Alba Bou",
+        "predicado": "sucede a",
+        "objeto": "Lluís Mijoler en la alcaldía de El Prat de Llobregat"
+    },
+    {
+        "sujeto": "Puigdemont",
+        "predicado": "es considerado junto a",
+        "objeto": "Junqueras como renovación imposible"
+    },
+    {
+        "sujeto": "Puigdemont",
+        "predicado": "lanzó",
+        "objeto": "órdago a Sánchez"
+    },
+    {
+        "sujeto": "Ada Colau y Asens",
+        "predicado": "denunciaron",
+        "objeto": "ataque con gases lacrimógenos en Palestina"
+    },
+    {
+        "sujeto": "Ada Colau",
+        "predicado": "fue",
+        "objeto": "símbolo de las ciudades del cambio"
+    },
+    {
+        "sujeto": "Organizador fiesta independentista",
+        "predicado": "fue acusado de",
+        "objeto": "estafa"
+    },
+    {
+        "sujeto": "fiesta independentista",
+        "predicado": "conmemoraba",
+        "objeto": "1 de octubre"
+    }
+]

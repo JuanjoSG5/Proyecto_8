@@ -1,0 +1,92 @@
+[
+    {
+        "sujeto": "Región de Murcia",
+        "predicado": "contará con",
+        "objeto": "36 banderas azules en playas y puertos deportivos en verano"
+    },
+    {
+        "sujeto": "Comunidad Autónoma de Murcia",
+        "predicado": "desarrollará",
+        "objeto": "programa para dinamizar el sector del enoturismo"
+    },
+    {
+        "sujeto": "Bahía de Portmán",
+        "predicado": "contiene",
+        "objeto": "60 millones de toneladas de residuos mineros"
+    },
+    {
+        "sujeto": "Residuo minero en bahía de Portmán",
+        "predicado": "será",
+        "objeto": "sellado"
+    },
+    {
+        "sujeto": "Sara Gómez",
+        "predicado": "fue intervenida por",
+        "objeto": "cirujano y anestesista procesados por homicidio imprudente"
+    },
+    {
+        "sujeto": "Festival Murcia Tres Culturas",
+        "predicado": "celebra",
+        "objeto": "25 edición con motivo del 1200 aniversario"
+    },
+    {
+        "sujeto": "Ciudad de Murcia",
+        "predicado": "cumple",
+        "objeto": "1200 aniversario"
+    },
+    {
+        "sujeto": "Décimo de Lotería Nacional",
+        "predicado": "está dedicado a",
+        "objeto": "1200 aniversario de la ciudad de Murcia"
+    },
+    {
+        "sujeto": "Los Alcázares",
+        "predicado": "acoge",
+        "objeto": "I Feria Internacional Senior"
+    },
+    {
+        "sujeto": "Yacimiento arqueológico en Lorca",
+        "predicado": "fue descubierto durante",
+        "objeto": "obras del AVE"
+    },
+    {
+        "sujeto": "Teatro Cine Moderno de San Pedro del Pinatar",
+        "predicado": "fue declarado",
+        "objeto": "Bien de Interés inventariado"
+    },
+    {
+        "sujeto": "Cultura",
+        "predicado": "apoya",
+        "objeto": "promoción de cuatro producciones cinematográficas de la Región de Murcia"
+    },
+    {
+        "sujeto": "Murcia Inspira y Cervezas Alhambra",
+        "predicado": "celebran",
+        "objeto": "encuentro cultural sobre la palabra como arte escénico"
+    },
+    {
+        "sujeto": "Murcia Inspira y Cervezas Alhambra",
+        "predicado": "organizan",
+        "objeto": "cena exclusiva en Hamburguesería FBI"
+    },
+    {
+        "sujeto": "Hidrogea y Emuasa",
+        "predicado": "gestionan",
+        "objeto": "ciclo integral del agua en la Región de Murcia"
+    },
+    {
+        "sujeto": "Gestión del agua por Hidrogea y Emuasa",
+        "predicado": "es",
+        "objeto": "referencia mundial"
+    },
+    {
+        "sujeto": "ElPozo Alimentación",
+        "predicado": "aumentó su facturación en",
+        "objeto": "2,2% en 2024"
+    },
+    {
+        "sujeto": "Facturación de ElPozo Alimentación en 2024",
+        "predicado": "alcanzó",
+        "objeto": "1.845 millones de euros"
+    }
+]
