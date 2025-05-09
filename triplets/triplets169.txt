@@ -12,4 +12,5 @@
     {"sujeto": "Wolfgang Amadeus Mozart", "predicado": "es relacionado con", "objeto": "Musikverein"},
     {"sujeto": "Casablanca", "predicado": "está en", "objeto": "Marruecos"},
     {"sujeto": "Ruta de senderismo en Cantabria", "predicado": "termina en", "objeto": "cascada"},
-    {"sujeto": "Ruta de senderismo en Cantabria", "predicado": "atraviesa", "objeto": ]
+    {"sujeto": "Ruta de senderismo en Cantabria", "predicado": "atraviesa", "objeto": ""}
+]
